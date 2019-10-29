@@ -65,7 +65,7 @@ class Solution:
         stack = []
         res = 0
         for i in range(n):
-            #print(stack)
+
             while stack and height[stack[-1]] < height[i]:
                 tmp = stack.pop()
                 if not stack: break

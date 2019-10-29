@@ -15,8 +15,7 @@
 4:f(2)+f(3)
 .... Fabonacci
 """
-
-
+# 动态规划 数组
 class Solution:
     def climbStairs(self, n: int) -> int:
         if n <= 2:
@@ -26,5 +25,4 @@ class Solution:
             f3 = f1 + f2
             f1 = f2
             f2 = f3
-
         return f3
