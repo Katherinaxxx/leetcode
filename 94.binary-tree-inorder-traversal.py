@@ -34,7 +34,7 @@
 #             p = p.right
 #         return res
 
-# # 2、递归
+# # 2、递归 中序
 class Solution:
      def inorderTraversal(self, root: TreeNode) -> List[int]:
             res = []

@@ -56,17 +56,43 @@
 * 144.binary-tree-preorder-transversal
 
 * 22.generate-parentheses
-
+* 47.Permutations II
 * 17.letter-combinations-of-a-phone-number
-
+* 111.Minimum Depth of Binary Tree
 * 77.combinations
-
+* 104.Maximum Depth of Binary Tree
 * 46.permutations.py
-
+* 590.N-ary Tree Postorder Traversal
+* 589.N-ary Tree Preorder Traversal
+* 429.N-ary Tree Level Order Traversal
 #### DFS\BFS
 
-* 102. Binary Tree Level Order Traversal
+* 102.Binary Tree Level Order Traversal
 
+* 127.Word Ladder.py
+
+#### DP动态规划
+
+* 62.Unique Paths
+
+### Greedy
+
+* 455.Assign Cookies
+
+* 22.Best Time to Buy and Sell Stock II
+
+* 55.Jump Game
+
+* 860.Lemonade Change
+* 874.Walking Robot Simulation
+
+### Binary Search
+
+* 33.Search in Rotated Sorted Array
+
+* 69.Sqrt(x)
+
+* 74.Search a 2D Matrix
 
 ### MATH
 
