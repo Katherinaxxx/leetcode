@@ -26,3 +26,28 @@ class Solution:
             f1 = f2
             f2 = f3
         return f3
+
+# 优化 更DP
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        f = [1, 2]
+        for i in range(2, n):
+            f.append(f[i - 1] + f[i - 2])
+        return f[n - 1]
+
+# 递归超时
+# class Solution:
+#     def climbStairs(self, n: int) -> int:
+#         res = 0
+#         def recursion(cur):
+#             nonlocal res
+#             if cur == 0:
+#                 res += 1
+#                 return
+#             if cur < 0:
+#                 return
+
+#             recursion(cur-1)
+#             recursion(cur-2)
+#         recursion(n)
+#         return res

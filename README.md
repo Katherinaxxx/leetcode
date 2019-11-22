@@ -2,7 +2,7 @@
 
 ### Array
 
-283.move-zeros
+* 283.move-zeros
 
 #### HashMap
 
@@ -11,6 +11,7 @@
 * 242.valid-anagram
 
 * 49.group-anagrams
+* 36.Valid Sudoku
 
 
 #### 左右边界 中间收敛 （夹逼）双指针
@@ -49,12 +50,12 @@
 * 641.design-circular-deque
 
 
-### Tree or Recursion
+### Tree or Recursion or backtrace
 
 * 94.binary-tree-inorder-traversal
 
 * 144.binary-tree-preorder-transversal
-
+* 37.Sudoku Solver
 * 22.generate-parentheses
 * 47.Permutations II
 * 17.letter-combinations-of-a-phone-number
@@ -66,15 +67,23 @@
 * 589.N-ary Tree Preorder Traversal
 * 429.N-ary Tree Level Order Traversal
 #### DFS\BFS
-
+* 51.N queens
 * 102.Binary Tree Level Order Traversal
 
 * 127.Word Ladder.py
-
+* 1091.Shortest Path in Binary Matrix
 #### DP动态规划
-
+* 53.Maximum Subarray
+* 152.Maximum Product Subarray
 * 62.Unique Paths
-
+* 63.Unique Paths II
+* 64.Minimum Path Sum
+* 120.Triangle
+* 198.House Robber.py
+* 213.House Robber II
+* 221.Maximal Square
+* 322.Coin Change
+* 1143.Longest Common Subsequence
 ### Greedy
 
 * 455.Assign Cookies
@@ -94,6 +103,13 @@
 
 * 74.Search a 2D Matrix
 
+# Trie 
+* 208.Implement Trie (Prefix Tree)
+* 212.Word Search II
+
+# Disjoint Sets
+
+* 547.Friend Circles
 ### MATH
 
 169.majority-element
