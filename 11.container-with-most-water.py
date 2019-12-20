@@ -7,7 +7,7 @@
 @File : 11.container-with-most-water.py
 @Software: PyCharm
 """
-
+# 1.暴力枚举遍历 O(n^2)
 # 2. O(n) 左右边界中间收敛：左右夹逼
 
 class Solution:

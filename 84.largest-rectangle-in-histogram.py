@@ -13,10 +13,10 @@
 # m = 0
 # for i in 0,n-2:
 #     for j in i+1, n-1:
-#         area = (j-1)*minheight
+#         area = (j-i+1)*minheight
 #         m = max(m, area)
 
-# 2、暴力2 O(n^2) 超时
+# 2、暴力2 O(n^2) 超时 枚举棒子 确定左右边界(左右第一个小于棒子的)
 # class Solution:
 #     def largestRectangleArea(self, heights: List[int]) -> int:
 #         res = 0
@@ -32,7 +32,7 @@
 #         return res
 
 
-# 2、栈 确定左右边界
+# 2、栈 枚举棒子 确定左右边界 左边界知道的
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
         stack = []

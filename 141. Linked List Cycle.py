@@ -42,7 +42,8 @@
 #             st.add(p)
 #             p = p.next
 #         return False
-# # 2、快慢指针
+
+# # 2、快慢指针 快的每次跑两步慢的每次跑一步
 class Solution:
     def hasCycle(self, head: ListNode) -> bool:
         if head is None or head.next is None:

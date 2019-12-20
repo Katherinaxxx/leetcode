@@ -16,7 +16,7 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         res = []
-        nums.sort()
+        nums.sort()  # 双指针关键
         for i in range(len(nums)-2):
             if i > 0 and nums[i] == nums[i-1]:
                 continue
@@ -29,6 +29,7 @@ class Solution:
                     h -= 1
                 else:
                     res.append([nums[i], nums[l], nums[h]])
+                    # 跳过一样的排除重复
                     while l < h and nums[l] == nums[l+1]:
                         l += 1
                     while l < h and nums[h] == nums[h-1]:

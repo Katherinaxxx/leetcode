@@ -9,7 +9,7 @@
 """
 
 # 1、暴力：不断replace匹配的括号 O(n^2)
-# 2、栈
+# 2、栈 左括号入栈 右括号与栈定元素匹配
 class Solution:
     def isValid(self, s: str) -> bool:
         dic = {")": "(", "]": "[", "}": "{"}     # 右 -> 左

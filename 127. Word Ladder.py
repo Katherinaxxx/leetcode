@@ -38,7 +38,7 @@ class Solution(object):
         front = {beginWord}
         back = {endWord}
         dist = 1  # 走的步数
-        wordList = set(wordList)
+        wordList = set(wordList)    # set查删的更快
         word_len = len(beginWord)
         while front and back:
             dist += 1
@@ -54,8 +54,9 @@ class Solution(object):
                                 return dist
                             if new_word in wordList:
                                 next_front.add(new_word)
-                                wordList.remove(new_word)
+                                wordList.remove(new_word)   # 防止重复走
             front = next_front
+            # 双端
             if len(back) < len(front):
                 front, back = back, front
         return 0

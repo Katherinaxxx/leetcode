@@ -7,7 +7,7 @@
 @File : remove-duplicates-from-sorted-array.py
 @Software: PyCharm
 """
-# 双指针
+# 双指针 O(n)
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         n = 0
