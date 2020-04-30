@@ -8,7 +8,7 @@
 @Software: PyCharm
 """
 # 1、暴力递归生成一个的子序列 后在另一个中判断是否存在 O(2^n)
-# dp
+# 2、dp
 class Solution:
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
         if not text1 or not text2:

@@ -10,7 +10,7 @@
 # 双指针 O(n)
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        n = 0
+        n = 0   # 重复的个数
         i, j = 0, 1
         while j < len(nums):
             if nums[i] == nums[j]:
