@@ -36,6 +36,7 @@
 #         return maxsql*maxsql
 
 # DP
+# dp[i][j]表示[i,j]为右下角的 最大边长
 class Solution:
     def maximalSquare(self, matrix: List[List[str]]) -> int:
         if not matrix: return 0
