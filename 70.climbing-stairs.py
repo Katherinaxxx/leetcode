@@ -35,6 +35,16 @@ class Solution:
             f.append(f[i - 1] + f[i - 2])
         return f[n - 1]
 
+
+# dp dp[n] = dp[n-1] + dp[n-2] O(n) O(1)
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        f1 = 1
+        f2 = 2
+        if n <= 3: return n
+        for i in range(3, n+1):
+            f1, f2 = f2, f1 + f2
+        return f2
 # 递归超时
 # class Solution:
 #     def climbStairs(self, n: int) -> int:

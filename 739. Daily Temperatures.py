@@ -32,7 +32,7 @@
 #         return res
 
 # stack 单调栈 找到一个数后 要找出在他之后更大的一个数
-# O(n+m) time  O(n) space
+# O(n) time  O(n) space
 class Solution:
     def dailyTemperatures(self, T: List[int]) -> List[int]:
         stack = []

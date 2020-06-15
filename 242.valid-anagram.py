@@ -19,16 +19,19 @@
 class Solution:
      def isAnagram(self, s: str, t: str) -> bool:
         hashmap = {}
+        # s各个字母出现次数放入hashmap
         for i in range(len(s)):
             if s[i] in hashmap:
                 hashmap[s[i]] += 1
             else:
                 hashmap[s[i]] = 1
+        # t各个字母在hashmap中查找 有则减一 否则False
         for j in range(len(t)):
             if t[j] in hashmap:
                 hashmap[t[j]] -= 1
             else:
                 return False
+
         for v in hashmap.values():
             if v != 0:
                 return False

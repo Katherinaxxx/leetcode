@@ -7,7 +7,11 @@
 @File : 221. Maximal Square.py
 @Software: PyCharm
 """
+"""
+在一个由 0 和 1 组成的二维矩阵内，找到只包含 1 的最大正方形，并返回其面积。
 
+
+"""
 
 # m[i][j+1] m[i+1][j] m[i+1][j+1]
 # # 1、暴力法

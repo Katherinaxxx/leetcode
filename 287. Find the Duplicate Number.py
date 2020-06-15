@@ -24,8 +24,8 @@
 #                 return x
 #             h[x] = 1
 
-# 二分查找 如果小于个树中位数的数目过半 说明重复的这个数一定在【1，中位数】 之后中位数=【1，中位数】的中位数 以此类推
-# O(nlogn)time. O(1)space
+# 前提是n个数且在1-n这区间 二分查找 如果小于个树中位数的数目过半 说明重复的这个数一定在【1，中位数】 之后中位数=【1，中位数】的中位数 以此类推
+# O(logn)*O(n)=O(nlogn)time. O(1)space
 from typing import List
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
@@ -52,4 +52,23 @@ class Solution:
                 left = mid + 1
         return left
 
+# 前提是n个数且在1-n这区间 快慢指针
+# O(n)time O(1)space
+class Solution:
+    def findDuplicate(self, nums: List[int]) -> int:
+        # node = index of nums
+        # node.next = nums[node]
+        # node.next.next = nums[nums[node]]
+        slow = nums[0]         #先走一步
+        fast = nums[nums[0]]
+        while slow != fast:
+            slow = nums[slow]
+            fast = nums[nums[fast]] # 曾经犯的一个错误，以为这里会固定地在环入口，值相同的那个点相遇
+        root = 0                    # 其实它们可以在环上任何一个node相遇，这里就是任何一个数组的下标index
+        while root != slow:
+            root = nums[root]
+            slow = nums[slow]
+        return slow             # 回到循环结束的上一步
+                                # nums[proot] == nums[pslow]
+                                # The last slow = nums[proot] and this value at least has two slot in the array
 

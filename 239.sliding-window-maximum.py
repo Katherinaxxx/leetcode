@@ -29,10 +29,8 @@
 #         return [max(nums[i:i + k]) for i in range(n - k + 1)]
 
 
-# 2、deque
+# 2、deque 双端队列
 from collections import deque
-
-
 class Solution:
     def maxSlidingWindow(self, nums: 'List[int]', k: 'int') -> 'List[int]':
         # base cases

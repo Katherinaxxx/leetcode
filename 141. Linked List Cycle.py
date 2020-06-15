@@ -14,7 +14,7 @@
 #         self.val = x
 #         self.next = None
 
-# 1、暴力：遍历链表 并存入hashmap 若在hashmap中找到 说明有环
+# 1、暴力：遍历链表 并存入hashmap 若在hashmap中找到 说明有环 O(n)time O(n)space
 # public boolean hasCycle(ListNode head) {
 #     Set<ListNode> nodesSeen = new HashSet<>();
 #     while (head != null) {

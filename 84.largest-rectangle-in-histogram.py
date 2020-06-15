@@ -8,7 +8,9 @@
 @Software: PyCharm
 """
 
-
+"""
+给定 n 个非负整数，用来表示柱状图中各个柱子的高度。每个柱子彼此相邻，且宽度为 1 。
+"""
 # 1、暴力求解 O(n^3)
 # m = 0
 # for i in 0,n-2:
@@ -36,12 +38,14 @@
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
         stack = []
+        # 边界要考虑
         heights = [0] + heights + [0]
         res = 0
         for i in range(len(heights)):
             # print(stack)
+            # 当下一个柱子小于栈顶元素 找到包括下一个柱子在内最矮的
             while stack and heights[stack[-1]] > heights[i]:
-                tmp = stack.pop()
-                res = max(res, (i - stack[-1] - 1) * heights[tmp])
+                cur = stack.pop()
+                res = max(res, (i - stack[-1] - 1) * heights[cur])
             stack.append(i)
         return res
