@@ -7,7 +7,12 @@
 @File : two-sum.py
 @Software: PyCharm
 """
+"""
+给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的那 两个 整数，并返回他们的数组下标。
 
+你可以假设每种输入只会对应一个答案。但是，数组中同一个元素不能使用两遍。
+
+"""
 
 # # 1.暴力遍历 O(n^2)
 # class Solution:
@@ -20,7 +25,7 @@
 #                     res = [i, j]
 #                     return res
 
-# 2. hashmap
+# 2. hashmap O(n)time O(n)space
 # 别人的代码更简洁
 class Solution:
     """

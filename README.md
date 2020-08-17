@@ -17,7 +17,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 581. Shortest Unsorted Continuous Subarray
 * 48. Rotate Image
 * 1431. Kids With the Greatest Number of Candies
-
+* 美团2019路由器接收信号
 
 
 #### HashMap
@@ -53,6 +53,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 392. Is Subsequence
 * 438. Find All Anagrams in a String
 * 567. Permutation in String
+* 最长全1串
 ### Fibonacci
 
 * 70.climbing-stairs
@@ -74,12 +75,13 @@ other hot keywords：Palindrome(mic), Subsequence
 * 237. Delete Node in a Linked List
 * 328. Odd Even Linked List
 * 725. Split Linked List in Parts
+面试题 02.01. 移除重复节点
 ### Stack
 "第几个最大/下一个最大""括号"
 * 20.valid-parentheses
 * 32. Longest Valid Parentheses （括号匹配）
 * 155.min-stack
-* 84.largest-rectangle-in-histogram
+* 84.largest-rectangle-in-histogram 柱状图中最大的矩形 （美团2017）
 * 85. Maximal Rectangle
 * 42.trapping-rain-water
 * LCOF9用两个栈实现队列
@@ -138,7 +140,8 @@ other hot keywords：Palindrome(mic), Subsequence
 * 301. Remove Invalid Parentheses
 * 1091.Shortest Path in Binary Matrix
 
-### DP动态规划 背包问题
+### DP动态规划 
+> 背包问题 dp[x]表示容量为x的背包最多能装多少
 * 53.Maximum Subarray
 * 152.Maximum Product Subarray
 * 62.Unique Paths
@@ -166,12 +169,15 @@ other hot keywords：Palindrome(mic), Subsequence
 * 746. Min Cost Climbing Stairs
 * 837. New 21 Game
 * 983. Minimum Cost For Tickets
-* 1143.Longest Common Subsequence [hot]
+* 1143.Longest Common Subsequence 最长公共子序列 [hot]
 * 1277. Count Square Submatrices with All Ones（和221思路一致）
 * LCOF46
 * LCOF47礼物的最大价值
+* 最长公共子串（美团2017）
 * 面试题 08.01. Three Steps Problem LCCI
-
+* 凑纸币组合（美团2017）
+* 美团2019种花
+* 美团2019时间内考试最高得分
 ### Greedy
 * 45. Jump Game II
 * 455.Assign Cookies
@@ -197,7 +203,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 212.Word Search II
 
 ### graph图
-
+* 美团2019遍历图
 
 ### Disjoint Sets
 
@@ -212,14 +218,20 @@ other hot keywords：Palindrome(mic), Subsequence
 * 338. Counting Bits
 * 461. Hamming Distance
 * 1371. Find the Longest Substring Containing Vowels in Even Counts
+
 ### string
+
+>字符串匹配：KMP、Sunday
 * 5.Longest Palindromic Substring
 * 9. Palindrome Number
 * 10.Regular Expression Matching (hard to understand)
+* 13. Roman to Integer
 * 14. Longest Common Prefix
+* 28. Implement strStr() (sunday)
 * 171. Excel Sheet Column Number
 * 125. Valid Palindrome
 * 344.Reverse String
+* 387. First Unique Character in a String
 
 ### 图
 * 399. Evaluate Division
@@ -232,11 +244,13 @@ other hot keywords：Palindrome(mic), Subsequence
 * 202. Happy Number
 * 204. Count Primes
 * 169.majority-element
+* 268. Missing Number
 * 118. Pascal's Triangle
 * 877. Stone Game(奇葩)
 * equation solution
 * 1025. Divisor Game
 * 面试题64. 求1+2+…+n LCOF
+丢骰子（美团2017）
 ### 排序
 * 75. Sort Colors(计数排序/三指针)
 * 148. Sort List（归并）

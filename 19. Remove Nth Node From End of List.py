@@ -78,7 +78,7 @@
 #         i+=1
 #         return head.next if i==n else head
 
-# 双指针
+# 双指针 前面的走到头时 后面的正好走到要删除的位置 O(n)time
 class Solution:
     def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
         Node = ListNode(None)
