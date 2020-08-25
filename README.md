@@ -3,6 +3,7 @@
 other hot keywords：Palindrome(mic), Subsequence
 
 ### Array
+* 54. 螺旋矩阵Spiral Matrix
 * 31. Next Permutation
 * 238. Product of Array Except Self
 * 189.rotate-array
@@ -45,7 +46,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 3.3sum
 
 * 11.container-with-most-water
-
+* 16. 3Sum Closest
 * 26.remove-duplicates-from-sorted-array
 * 3. Longest Substring Without Repeating Characters
 * 76. Minimum Window Substring
@@ -63,6 +64,7 @@ other hot keywords：Palindrome(mic), Subsequence
 ### Linked List
 * 21.Merge Two Sorted Lists
 * 23. Merge k Sorted Lists
+* 61. 旋转链表Rotate List
 * 138. Copy List with Random Pointer
 * 141.linked list cycle （有无环，套路快慢指针）
 * 142. Linked List Cycle II (floyd找出环起点)
@@ -115,6 +117,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 106.Construct Binary Tree from Inorder and Postorder Traversal
 * 108. Convert Sorted Array to Binary Search Tree
 * 226. Invert Binary Tree
+* 235. Lowest Common Ancestor of a Binary Search Tree二叉搜索树的最近公共祖先
 * 111.Minimum Depth of Binary Tree
 * 101. Symmetric Tree
 * 77.combinations
@@ -130,6 +133,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 快手-运动会
 * 572. Subtree of Another Tree
 * 131. Palindrome Partitioning
+* 通过前中还原树
 #### DFS\BFS\backtrace
 * 51.N queens
 * 79. Word Search
@@ -139,7 +143,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 127.Word Ladder.py
 * 301. Remove Invalid Parentheses
 * 1091.Shortest Path in Binary Matrix
-
+* 滴滴2018岛屿
 ### DP动态规划 
 > 背包问题 dp[x]表示容量为x的背包最多能装多少
 * 53.Maximum Subarray
@@ -156,6 +160,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 309. Best Time to Buy and Sell Stock with Cooldown
 * 198.House Robber.py
 * 213.House Robber II
+* 256. Paint House粉刷房子
 * 面试题 17.16. The Masseuse LCCI
 * 312. Burst Balloons (变戳气球为加气球)
 * 337. House Robber III （递归DP）
@@ -211,6 +216,7 @@ other hot keywords：Palindrome(mic), Subsequence
 
 ### 位运算/二进制
 * 50. Pow(x, n)
+* 89. 格雷编码
 * 136. Single Number
 * 191.Number of 1 Bits
 * 231.Power of Two
@@ -228,11 +234,12 @@ other hot keywords：Palindrome(mic), Subsequence
 * 13. Roman to Integer
 * 14. Longest Common Prefix
 * 28. Implement strStr() (sunday)
+* 43. 字符串相乘Multiply Strings
 * 171. Excel Sheet Column Number
 * 125. Valid Palindrome
 * 344.Reverse String
 * 387. First Unique Character in a String
-
+* 557. Reverse Words in a String III
 ### 图
 * 399. Evaluate Division
 
@@ -245,7 +252,9 @@ other hot keywords：Palindrome(mic), Subsequence
 * 204. Count Primes
 * 169.majority-element
 * 268. Missing Number
+* 292. Nim 游戏
 * 118. Pascal's Triangle
+* 625. Minimum Factorization最小因式分解
 * 877. Stone Game(奇葩)
 * equation solution
 * 1025. Divisor Game
@@ -262,8 +271,9 @@ other hot keywords：Palindrome(mic), Subsequence
 * 牛牛找工作
 
 
-
-
+# tips & tricks
+print("%.6f" % a)   # 腾讯笔试因为这个没过
+$\Sigma_{i=0}^{n}iC_n^i=n2^{n-1}$
 
 
   
