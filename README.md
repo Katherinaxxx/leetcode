@@ -62,14 +62,14 @@ other hot keywords：Palindrome(mic), Subsequence
 * 509.LCOF青蛙跳台阶问题
 
 ### Linked List
-* 21.Merge Two Sorted Lists
+* 21.Merge Two Sorted Lists合并排序链表 [hot]
 * 23. Merge k Sorted Lists
 * 61. 旋转链表Rotate List
 * 138. Copy List with Random Pointer
 * 141.linked list cycle （有无环，套路快慢指针）
 * 142. Linked List Cycle II (floyd找出环起点)
 * 146.LRU Cache
-* 206.Reverse Linked List
+* 206.Reverse Linked List [hot]
 * 92.Reverse Linked List II
 * Add Two Numbers
 * 160. Intersection of Two Linked Lists
@@ -86,11 +86,12 @@ other hot keywords：Palindrome(mic), Subsequence
 * 84.largest-rectangle-in-histogram 柱状图中最大的矩形 （美团2017）
 * 85. Maximal Rectangle
 * 42.trapping-rain-water
-* LCOF9用两个栈实现队列
+* LCOF9用两个栈实现队列 [hot]
 * 394. Decode String
 * 496. Next Greater Element I
+* 768. Max Chunks To Make Sorted II最多能完成排序的块 II
 * 739. Daily Temperatures
-
+* 字节2020秋招左右侧第一个最大元素下标
 ### Deque
 
 * 239.sliding-window-maximum
@@ -104,7 +105,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 39. Combination Sum
 * 78. Subsets
 * 98. Validate Binary Search Tree
-* 94.binary-tree-inorder-traversal
+* 94.binary-tree-inorder-traversal [hot]
 * 124. Binary Tree Maximum Path Sum
 * 538/1038. Convert BST to Greater Tree
 * 144.binary-tree-preorder-transversal
@@ -116,6 +117,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 105.Construct Binary Tree from Preorder and Inorder Traversal
 * 106.Construct Binary Tree from Inorder and Postorder Traversal
 * 108. Convert Sorted Array to Binary Search Tree
+* 110. Balanced Binary Tree平衡二叉树
 * 226. Invert Binary Tree
 * 235. Lowest Common Ancestor of a Binary Search Tree二叉搜索树的最近公共祖先
 * 111.Minimum Depth of Binary Tree
@@ -146,6 +148,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 滴滴2018岛屿
 ### DP动态规划 
 > 背包问题 dp[x]表示容量为x的背包最多能装多少
+* 5.Longest Palindromic Substring
 * 53.Maximum Subarray
 * 152.Maximum Product Subarray
 * 62.Unique Paths
@@ -228,7 +231,6 @@ other hot keywords：Palindrome(mic), Subsequence
 ### string
 
 >字符串匹配：KMP、Sunday
-* 5.Longest Palindromic Substring
 * 9. Palindrome Number
 * 10.Regular Expression Matching (hard to understand)
 * 13. Roman to Integer
@@ -270,7 +272,8 @@ other hot keywords：Palindrome(mic), Subsequence
 * LCOF45
 * 牛牛找工作
 
-
+# SQL
+176. 第二高的薪水
 # tips & tricks
 print("%.6f" % a)   # 腾讯笔试因为这个没过
 $\Sigma_{i=0}^{n}iC_n^i=n2^{n-1}$

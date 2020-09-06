@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7094092-3e2e-4806-aaa6-5a02d7e79836" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LCOF9用两个栈实现队列.py" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF9用两个栈实现队列.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,28 +19,70 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="-1100">
-                <caret line="119" column="65" selection-start-line="119" selection-start-column="65" selection-end-line="119" selection-end-column="65" />
+              <first_editor relative-caret-position="3322">
+                <caret line="151" selection-start-line="151" selection-end-line="151" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="完美世界2020秋招.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/完美世界2020秋招.py">
+      <file leaf-file-name="53. Maximum Subarray.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/53. Maximum Subarray.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="b站2020秋招.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/b站2020秋招.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+            <state relative-caret-position="318">
+              <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="排序.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/排序.py">
+      <file leaf-file-name="110. Balanced Binary Tree平衡二叉树.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/110. Balanced Binary Tree平衡二叉树.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="550">
+              <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="通过前中还原树.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/通过前中还原树.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="94.binary-tree-inorder-traversal.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/94.binary-tree-inorder-traversal.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="206. Reverse Linked List.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/206. Reverse Linked List.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="京东2020秋招.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/京东2020秋招.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="51" selection-start-line="43" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LCOF9用两个栈实现队列.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LCOF9用两个栈实现队列.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -78,6 +121,10 @@
       <find>revers</find>
       <find>Parentheses</find>
       <find>61</find>
+      <find>deque</find>
+      <find>link</find>
+      <find>inorder</find>
+      <find>Palindromic</find>
     </findStrings>
     <replaceStrings>
       <replace>stack</replace>
@@ -89,13 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/14. Longest Common Prefix.py" />
-        <option value="$PROJECT_DIR$/103. Binary Tree Zigzag Level Order Traversal.py" />
-        <option value="$PROJECT_DIR$/118. Pascal's Triangle.py" />
-        <option value="$PROJECT_DIR$/328. Odd Even Linked List.py" />
-        <option value="$PROJECT_DIR$/725. Split Linked List in Parts.py" />
-        <option value="$PROJECT_DIR$/202. Happy Number.py" />
-        <option value="$PROJECT_DIR$/141. Linked List Cycle.py" />
         <option value="$PROJECT_DIR$/258. Add Digits.py" />
         <option value="$PROJECT_DIR$/395. Longest Substring with At Least K Repeating Characters.py" />
         <option value="$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree.py" />
@@ -136,17 +176,23 @@
         <option value="$PROJECT_DIR$/43. 字符串相乘Multiply Strings.py" />
         <option value="$PROJECT_DIR$/89. 格雷编码.py" />
         <option value="$PROJECT_DIR$/292. Nim 游戏.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/235. Lowest Common Ancestor of a Binary Search Tree二叉搜索树的最近公共祖先.py" />
         <option value="$PROJECT_DIR$/排序.py" />
         <option value="$PROJECT_DIR$/完美世界2020秋招.py" />
+        <option value="$PROJECT_DIR$/LCOF9用两个栈实现队列.py" />
+        <option value="$PROJECT_DIR$/京东2019秋招-还原.py" />
+        <option value="$PROJECT_DIR$/176. 第二高的薪水.py" />
+        <option value="$PROJECT_DIR$/768. Max Chunks To Make Sorted II最多能完成排序的块 II.py" />
+        <option value="$PROJECT_DIR$/京东2020秋招.py" />
+        <option value="$PROJECT_DIR$/110. Balanced Binary Tree平衡二叉树.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/b站2020秋招.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="466" />
     <option name="y" value="22" />
-    <option name="width" value="974" />
+    <option name="width" value="1440" />
     <option name="height" value="801" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -157,7 +203,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,6 +214,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.腾讯2020秋招">
+  <component name="RunManager" selected="Python.1248. Count Number of Nice Subarrays">
     <configuration name="118. Pascal's Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,7 +298,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="303. Range Sum Query - Immutable" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="京东2020秋招" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,7 +310,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/303. Range Sum Query - Immutable.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/京东2020秋招.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,7 +335,6 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.303. Range Sum Query - Immutable" />
       <item itemvalue="Python.1248. Count Number of Nice Subarrays" />
       <item itemvalue="Python.118. Pascal's Triangle" />
       <item itemvalue="Python.test" />
@@ -301,7 +346,6 @@
         <item itemvalue="Python.test" />
         <item itemvalue="Python.118. Pascal's Triangle" />
         <item itemvalue="Python.1248. Count Number of Nice Subarrays" />
-        <item itemvalue="Python.303. Range Sum Query - Immutable" />
       </list>
     </recent_temporary>
   </component>
@@ -319,19 +363,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="466" y="22" width="974" height="801" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1440" height="801" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2274678" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19098713" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.328125" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" visible="true" weight="0.35085228" />
+      <window_info anchor="bottom" id="Python Console" order="7" visible="true" weight="0.4190341" />
       <window_info anchor="right" id="leetcode" order="3" side_tool="true" weight="0.16738197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.328125" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3565341" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46448863" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -411,14 +454,17 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="43" />
+      <option name="time" value="44" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="nums" language="Python" />
-        <watch expression="self.part_sum[i - 1]" language="Python" />
-        <watch expression="helper(n)/(helper(n)*helper(n-i))" language="Python" />
-        <watch expression="helper(i)/(helper(n)*helper(n-i))" language="Python" />
+        <watch expression="dp[i+1][j-1]" language="Python" />
+        <watch expression="dp[i+1][j]" language="Python" />
+        <watch expression="dp[i+1][j+1]" language="Python" />
+        <watch expression="data[i][j-(len(data[-1])-len(data[i]))//2]" language="Python" />
+        <watch expression="dp[i][j]" language="Python" />
+        <watch expression="i" language="Python" />
+        <watch expression="j" language="Python" />
       </configuration>
     </watches-manager>
   </component>
@@ -461,6 +507,46 @@ print(solution())</expression-string>
     </expressions>
     <expressions id="watch">
       <expression>
+        <expression-string>data[i][j-(len(data[-1])-len(data[i]))//2]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dp[i][j]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dp[i][i]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>j</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dp[i+1][j+1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dp[i+1][j]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dp[i+1][j-1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>helper(n)/(helper(n)*helper(n-i))</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -470,118 +556,9 @@ print(solution())</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>self.part_sum[i - 1]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>self.part_sum[i - 1][0]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>lost[:(que-i)]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>lost[j - i+1:j+1]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>sum(lost[j - n:j+1])</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>lost[j - n+1 :j+1]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>lost[j - n :j+1]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/70.climbing-stairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5. Longest Palindromic Substring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19. Remove Nth Node From End of List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1760">
-          <caret line="80" column="36" selection-start-line="80" selection-start-column="36" selection-end-line="80" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/72. Edit Distance.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/206. Reverse Linked List.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/215. Kth Largest Element in an Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/快手-丢手绢.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-372" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/快手-跳格子.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11.container-with-most-water.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/85. Maximal Rectangle.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1143. Longest Common Subsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="24" column="23" selection-start-line="11" selection-end-line="24" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/221. Maximal Square.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/凑纸币组合（美团2017）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/丢骰子（美团2017）.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="103">
@@ -636,13 +613,6 @@ print(solution())</expression-string>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/字节2020秋招.py" />
-    <entry file="file://$PROJECT_DIR$/通过前中还原树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/阿里2020秋招.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
@@ -811,11 +781,97 @@ print(solution())</expression-string>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/完美世界2020秋招.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/京东2019秋招-还原.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/509.LCOF青蛙跳台阶问题.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/176. 第二高的薪水.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/768. Max Chunks To Make Sorted II最多能完成排序的块 II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21. Merge Two Sorted Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCOF9用两个栈实现队列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/206. Reverse Linked List.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/京东2020秋招.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="51" selection-start-line="43" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/94.binary-tree-inorder-traversal.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/110. Balanced Binary Tree平衡二叉树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. Longest Palindromic Substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="76" column="18" selection-start-line="50" selection-end-line="76" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/通过前中还原树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="-1100">
-            <caret line="119" column="65" selection-start-line="119" selection-start-column="65" selection-end-line="119" selection-end-column="65" />
+          <first_editor relative-caret-position="3322">
+            <caret line="151" selection-start-line="151" selection-end-line="151" />
           </first_editor>
           <second_editor />
         </state>
@@ -826,17 +882,13 @@ print(solution())</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/排序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/53. Maximum Subarray.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/完美世界2020秋招.py">
+    <entry file="file://$PROJECT_DIR$/b站2020秋招.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        <state relative-caret-position="318">
+          <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
         </state>
       </provider>
     </entry>
