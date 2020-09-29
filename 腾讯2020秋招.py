@@ -104,3 +104,58 @@ for i in range(100):
         for j in v:
             dp[j] = min(dp[j], dp[k] + 1)
 print(dp[n])
+
+
+
+############
+# 1
+def length(nums):
+    size = len(nums)
+    if size <= 1:
+        return size
+
+    dp = [1] * size
+    for i in range(1, size):
+        for j in range(i):
+            if nums[i] > nums[j]:
+                dp[i] = max(dp[i], dp[j] + 1)
+    return max(dp)
+def solution(s,n):
+    res = 0
+    for i in range(1,n):
+        if s[i] in s[i+1:]:
+            j = s[i+1:].index(s[i]) + i + 1
+            left = length(s[:i][::-1])
+            right = length(s[j+1:])
+            res = max(res, 2*(min(left, right)+1))
+    return res
+t = int(input())
+for _ in range(t):
+    n = int(input())
+    s = list(map(int, input().split()))
+    print(solution(s,n))
+
+
+
+# 2
+l, d = list(map(int, input().split()))
+
+# 4 60
+def helper(nums1, nums2):
+    return sorted(nums1)==sorted(nums2)
+    # tmp = [x-y for x in nums1 for y in nums2]
+    # return sum(tmp)==0
+def main(data, n):
+    for i in range(n-1):
+        for j in range(i,n):
+            if helper(data[i], data[j]):
+                return True
+    return False
+N = int(input())
+for _ in range(N):
+    n = int(input())
+    data = [list(map(int, input().split())) for _ in range(n)]
+    if main(data, n):
+        print("YES")
+    else:
+        print("NO")

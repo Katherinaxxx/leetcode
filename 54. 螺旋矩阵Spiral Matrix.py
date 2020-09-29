@@ -8,7 +8,7 @@
 @Software: PyCharm
 """
 
-# 遍历 + 取余数调整遍历方向
+# 遍历 + 取余数调整遍历方向 time O(n)
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
         if not matrix:
@@ -22,6 +22,7 @@ class Solution:
         for i in range(len(matrix)*len(matrix[0])):
             visited.add((x,y))
             res.append(matrix[x][y])
+            # 如果下一个数不在visited中 且下一个数的索引没有超出范围 则方向不变 继续走
             if (x+dx[direction],y+dy[direction]) not in visited and 0<=x+dx[direction]<len(matrix) and 0<=y+dy[direction]<len(matrix[0]):
                 pass
             else:

@@ -41,7 +41,7 @@ class Solution:
         for x in nums:
             i, j = 0, size
             while i != j:
-                m = (i + j) / 2
+                m = (i + j) // 2
                 if tails[m] < x:
                     i = m + 1
                 else:

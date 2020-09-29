@@ -4,7 +4,7 @@
 @Time : 2020/2/18 下午3:45
 @Author : Catherinexxx
 @Site : 
-@File : LCOF46.py
+@File : LCOF46把数字翻译成字符串.py
 @Software: PyCharm
 """
 # dp

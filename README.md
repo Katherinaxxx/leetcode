@@ -3,7 +3,7 @@
 other hot keywords：Palindrome(mic), Subsequence
 
 ### Array
-* 54. 螺旋矩阵Spiral Matrix
+* 54. 螺旋矩阵Spiral Matrix 顺时针打印矩阵
 * 31. Next Permutation
 * 238. Product of Array Except Self
 * 189.rotate-array
@@ -19,7 +19,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 48. Rotate Image
 * 1431. Kids With the Greatest Number of Candies
 * 美团2019路由器接收信号
-
+* LCOF03. 数组中重复的数字
 
 #### HashMap
 
@@ -48,7 +48,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 11.container-with-most-water
 * 16. 3Sum Closest
 * 26.remove-duplicates-from-sorted-array
-* 3. Longest Substring Without Repeating Characters
+* 3. Longest Substring Without Repeating Characters最长不含重复字符的子字符串
 * 76. Minimum Window Substring
 * 209. Minimum Size Subarray Sum
 * 392. Is Subsequence
@@ -69,7 +69,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 141.linked list cycle （有无环，套路快慢指针）
 * 142. Linked List Cycle II (floyd找出环起点)
 * 146.LRU Cache
-* 206.Reverse Linked List [hot]
+* LCOF24 206.Reverse Linked List [hot]
 * 92.Reverse Linked List II
 * Add Two Numbers
 * 160. Intersection of Two Linked Lists
@@ -135,7 +135,8 @@ other hot keywords：Palindrome(mic), Subsequence
 * 快手-运动会
 * 572. Subtree of Another Tree
 * 131. Palindrome Partitioning
-* 通过前中还原树
+* LCOF重建二叉树通过前中还原树
+* LCOF62. 圆圈中最后剩下的数字
 #### DFS\BFS\backtrace
 * 51.N queens
 * 79. Word Search
@@ -179,13 +180,14 @@ other hot keywords：Palindrome(mic), Subsequence
 * 983. Minimum Cost For Tickets
 * 1143.Longest Common Subsequence 最长公共子序列 [hot]
 * 1277. Count Square Submatrices with All Ones（和221思路一致）
-* LCOF46
+* LCOF46把数字翻译成字符串
 * LCOF47礼物的最大价值
 * 最长公共子串（美团2017）
 * 面试题 08.01. Three Steps Problem LCCI
 * 凑纸币组合（美团2017）
 * 美团2019种花
 * 美团2019时间内考试最高得分
+* 最少完全平方数
 ### Greedy
 * 45. Jump Game II
 * 455.Assign Cookies
@@ -221,13 +223,13 @@ other hot keywords：Palindrome(mic), Subsequence
 * 50. Pow(x, n)
 * 89. 格雷编码
 * 136. Single Number
-* 191.Number of 1 Bits
-* 231.Power of Two
-* 190.Reverse Bits
+* 191. Number of 1 Bits
+* 231. Power of Two
+* 190. Reverse Bits
 * 338. Counting Bits
 * 461. Hamming Distance
 * 1371. Find the Longest Substring Containing Vowels in Even Counts
-
+* LCOF56数组中数字出现的次数
 ### string
 
 >字符串匹配：KMP、Sunday
@@ -268,10 +270,10 @@ other hot keywords：Palindrome(mic), Subsequence
 * 347. Top K Frequent Elements
 * 215. Kth Largest Element in an Array
 * 406. Queue Reconstruction by Height
-* LCOF40
-* LCOF45
+* LCOF40最小的k个数
+* LCOF45把数组排成最小的数
 * 牛牛找工作
-
+* LCOF51数组中的逆序对
 # SQL
 176. 第二高的薪水
 # tips & tricks

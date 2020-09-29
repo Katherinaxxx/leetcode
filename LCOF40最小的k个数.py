@@ -4,7 +4,7 @@
 @Time : 2020/2/17 下午4:04
 @Author : Catherinexxx
 @Site : 
-@File : LCOF40.py
+@File : LCOF40最小的k个数.py
 @Software: PyCharm
 """
 # 1.内置函数 sort O(nlogn)
