@@ -11,16 +11,17 @@ other hot keywords：Palindrome(mic), Subsequence
 * 303. Range Sum Query - Immutables
 * 66.Plus One
 * 快手-跳格子
-
+* 349. Intersection of Two Arrays
 * 17.10. Find Majority Element LCCI
 * 289. Game of Life
 * 448. Find All Numbers Disappeared in an Array
 * 581. Shortest Unsorted Continuous Subarray
 * 48. Rotate Image
+* 771. 宝石与石头Jewels and Stones
 * 1431. Kids With the Greatest Number of Candies
 * 美团2019路由器接收信号
 * LCOF03. 数组中重复的数字
-
+* 154 LCOF11 旋转数组的最小数字
 #### HashMap
 
 * 1.two-sum
@@ -50,6 +51,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 26.remove-duplicates-from-sorted-array
 * 3. Longest Substring Without Repeating Characters最长不含重复字符的子字符串
 * 76. Minimum Window Substring
+* 925. 长按键入
 * 209. Minimum Size Subarray Sum
 * 392. Is Subsequence
 * 438. Find All Anagrams in a String
@@ -73,11 +75,13 @@ other hot keywords：Palindrome(mic), Subsequence
 * 92.Reverse Linked List II
 * Add Two Numbers
 * 160. Intersection of Two Linked Lists
+* 143. Reorder List重排链表 （取中电、反转、交叉合并）
 * 234. Palindrome Linked List
 * 237. Delete Node in a Linked List
 * 328. Odd Even Linked List
 * 725. Split Linked List in Parts
 面试题 02.01. 移除重复节点
+* LCOF22. 链表中倒数第k个节点
 ### Stack
 "第几个最大/下一个最大""括号"
 * 20.valid-parentheses
@@ -96,7 +100,7 @@ other hot keywords：Palindrome(mic), Subsequence
 
 * 239.sliding-window-maximum
 * 641.design-circular-deque
-
+* LCOF剑指 Offer 37. 序列化二叉树
 
 ### Tree or Recursion or backtrace or iteration
 * 19. Remove Nth Node From End of List
@@ -188,6 +192,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 美团2019种花
 * 美团2019时间内考试最高得分
 * 最少完全平方数
+* LCP 19. 秋叶收藏集
 ### Greedy
 * 45. Jump Game II
 * 455.Assign Cookies

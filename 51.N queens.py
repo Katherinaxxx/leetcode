@@ -7,7 +7,6 @@
 @File : 51.N queens.py
 @Software: PyCharm
 """
-
 class Solution:
     def solveNQueens(self, n):
         def DFS(queens, xy_dif, xy_sum):
@@ -28,7 +27,6 @@ class Solution:
                 # queens stores those used cols, for example, [0,2,4,1] means these cols have been used
                 # xy_dif is the diagonal 1
                 # xy_sum is the diagonal 2
-
                 # 不在同列、 不在撇、 不在捺
                 if q not in queens and p - q not in xy_dif and p + q not in xy_sum:
                     DFS(queens + [q], xy_dif + [p - q], xy_sum + [p + q])

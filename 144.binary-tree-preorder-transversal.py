@@ -32,22 +32,22 @@
 #             p = stack.pop()
 #         return res
 
-# class Solution(object):
-#     def preorderTraversal(self, root):
-#         """
-#         :type root: TreeNode
-#         :rtype: List[int]
-#         """
-#         res = []
-#         p = root
-#         stack = []
-#         while p or stack:
-#             while p:
-#                 res.append(p.val)
-#                 stack.append(p)
-#                 p = p.left
-#             p = stack.pop().right
-#         return res
+class Solution(object):
+    def preorderTraversal(self, root):
+        """
+        :type root: TreeNode
+        :rtype: List[int]
+        """
+        res = []
+        p = root
+        stack = []
+        while p or stack:
+            while p:
+                res.append(p.val)
+                stack.append(p)
+                p = p.left
+            p = stack.pop().right
+        return res
 
 
 # 2、递归
@@ -69,6 +69,19 @@ class Solution:
 class Solution:
     # @param {TreeNode} root
     # @return {integer[]}
+    def preorderTraversal(self, root):
+        traversal, stack = [], [root]
+        while stack:
+            node = stack.pop()
+            if node:
+                # pre-order, right first
+                stack.append(node.right)
+                stack.append(node.left)
+                traversal.append(node.val)
+
+        # reverse result
+        return traversal
+
     def postorderTraversal(self, root):
         traversal, stack = [], [root]
         while stack:

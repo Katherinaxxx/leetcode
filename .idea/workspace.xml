@@ -3,18 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="d7094092-3e2e-4806-aaa6-5a02d7e79836" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/206. Reverse Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF24 206. Reverse Linked List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/300. Longest Increasing Subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/300. Longest Increasing Subsequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/54. 螺旋矩阵Spiral Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/54. 螺旋矩阵Spiral Matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/72. Edit Distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/72. Edit Distance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LCOF40.py" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF40最小的k个数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LCOF45.py" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF45.把数组排成最小的数py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LCOF46.py" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF46把数字翻译成字符串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/141. Linked List Cycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/141. Linked List Cycle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/144.binary-tree-preorder-transversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/144.binary-tree-preorder-transversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/51.N queens.py" beforeDir="false" afterPath="$PROJECT_DIR$/51.N queens.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/排序.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/腾讯2020秋招.py" beforeDir="false" afterPath="$PROJECT_DIR$/腾讯2020秋招.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/通过前中还原树.py" beforeDir="false" afterPath="$PROJECT_DIR$/LCOF重建二叉树通过前中还原树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ttt.py" beforeDir="false" afterPath="$PROJECT_DIR$/ttt.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,75 +18,72 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="159">
-                <caret line="189" column="9" selection-start-line="189" selection-start-column="9" selection-end-line="189" selection-end-column="9" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3.3sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.3sum.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="72. Edit Distance.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/72. Edit Distance.py">
+      <file leaf-file-name="51.N queens.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/51.N queens.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="31" column="71" selection-start-line="31" selection-start-column="71" selection-end-line="31" selection-end-column="71" />
+            <state relative-caret-position="128">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3. Longest Substring Without Repeating Characters.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3. Longest Substring Without Repeating Characters.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="最少完全平方数.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/最少完全平方数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="136. Single Number.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/136. Single Number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" selection-start-line="10" selection-end-line="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="300. Longest Increasing Subsequence.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/300. Longest Increasing Subsequence.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1100">
-              <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LCOF56数组中数字出现的次数.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LCOF56数组中数字出现的次数.py">
+      <file leaf-file-name="349. Intersection of Two Arrays.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/349. Intersection of Two Arrays.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="24" />
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="39" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="925. 长按键入.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/925. 长按键入.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="682">
+              <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="144.binary-tree-preorder-transversal.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/144.binary-tree-preorder-transversal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LCOF剑指 Offer 37. 序列化二叉树.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LCOF剑指 Offer 37. 序列化二叉树.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LCOF22. 链表中倒数第k个节点.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LCOF22. 链表中倒数第k个节点.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="143. Reorder List重排链表.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/143. Reorder List重排链表.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="235. Lowest Common Ancestor of a Binary Search Tree二叉搜索树的最近公共祖先.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/235. Lowest Common Ancestor of a Binary Search Tree二叉搜索树的最近公共祖先.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -107,7 +97,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>s</find>
       <find>560</find>
       <find>dupl</find>
       <find>decode</find>
@@ -137,6 +126,7 @@
       <find>nums</find>
       <find>edit</find>
       <find>Longest Substring Without Repeating Characters</find>
+      <find>21</find>
     </findStrings>
     <replaceStrings>
       <replace>stack</replace>
@@ -149,20 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/最长全1串.py" />
-        <option value="$PROJECT_DIR$/美团2019外卖满减.py" />
-        <option value="$PROJECT_DIR$/美团2019种花.py" />
-        <option value="$PROJECT_DIR$/美团2019路由器接收信号.py" />
-        <option value="$PROJECT_DIR$/美团2019补塔.py" />
-        <option value="$PROJECT_DIR$/美团2019时间内考试最高得分.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/字节2020秋招.py" />
-        <option value="$PROJECT_DIR$/阿里2020秋招.py" />
-        <option value="$PROJECT_DIR$/557. Reverse Words in a String III.py" />
-        <option value="$PROJECT_DIR$/16. 3Sum Closest.py" />
-        <option value="$PROJECT_DIR$/625. Minimum Factorization最小因式分解.py" />
-        <option value="$PROJECT_DIR$/256. Paint House粉刷房子.py" />
-        <option value="$PROJECT_DIR$/滴滴2018岛屿.py" />
         <option value="$PROJECT_DIR$/爱奇艺2020秋招.py" />
         <option value="$PROJECT_DIR$/61. 旋转链表Rotate List.py" />
         <option value="$PROJECT_DIR$/43. 字符串相乘Multiply Strings.py" />
@@ -179,7 +155,6 @@
         <option value="$PROJECT_DIR$/b站2020秋招.py" />
         <option value="$PROJECT_DIR$/字节2020秋招左右侧第一个最大元素下标.py" />
         <option value="$PROJECT_DIR$/腾讯2020秋招.py" />
-        <option value="$PROJECT_DIR$/ttt.py" />
         <option value="$PROJECT_DIR$/LCOF40最小的k个数.py" />
         <option value="$PROJECT_DIR$/排序.py" />
         <option value="$PROJECT_DIR$/LCOF45.把数组排成最小的数py" />
@@ -199,7 +174,22 @@
         <option value="$PROJECT_DIR$/72. Edit Distance.py" />
         <option value="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters.py" />
         <option value="$PROJECT_DIR$/最少完全平方数.py" />
+        <option value="$PROJECT_DIR$/ttt.py" />
+        <option value="$PROJECT_DIR$/LCP 19. 秋叶收藏集.py" />
+        <option value="$PROJECT_DIR$/771. 宝石与石头.py" />
+        <option value="$PROJECT_DIR$/LCOF13. 机器人的运动范围.py" />
+        <option value="$PROJECT_DIR$/141. Linked List Cycle.py" />
+        <option value="$PROJECT_DIR$/154/LOCF11 旋转数组的最小数字.py" />
+        <option value="$PROJECT_DIR$/154 LCOF11 旋转数组的最小数字.py" />
+        <option value="$PROJECT_DIR$/143. Reorder List重排链表.py" />
+        <option value="$PROJECT_DIR$/LCOF22. 链表中倒数第k个节点.py" />
+        <option value="$PROJECT_DIR$/925. 长按键入.py" />
+        <option value="$PROJECT_DIR$/144.binary-tree-preorder-transversal.py" />
+        <option value="$PROJECT_DIR$/349. Intersection of Two Arrays.py" />
+        <option value="$PROJECT_DIR$/51.N queens.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/剑指 Offer 37. 序列化二叉树.py" />
+        <option value="$PROJECT_DIR$/LCOF剑指 Offer 37. 序列化二叉树.py" />
       </list>
     </option>
   </component>
@@ -415,12 +405,13 @@
     <frame x="0" y="22" width="1440" height="801" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18884121" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22246066" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328125" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.328125" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="7" visible="true" weight="0.4715909" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.21448864" />
       <window_info anchor="right" id="leetcode" order="3" side_tool="true" weight="0.16738197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.328125" />
@@ -432,7 +423,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.328125" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -619,103 +609,6 @@ print(solution())</expression-string>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/235. Lowest Common Ancestor of a Binary Search Tree二叉搜索树的最近公共祖先.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/292. Nim 游戏.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/61. 旋转链表Rotate List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/43. 字符串相乘Multiply Strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/50. Pow(x, n).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/89. 格雷编码.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/32. Longest Valid Parentheses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/美团2019时间内考试最高得分.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="33" selection-start-line="24" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/完美世界2020秋招.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/京东2019秋招-还原.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/509.LCOF青蛙跳台阶问题.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/176. 第二高的薪水.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/768. Max Chunks To Make Sorted II最多能完成排序的块 II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/京东2020秋招.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="51" selection-start-line="43" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/94.binary-tree-inorder-traversal.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/110. Balanced Binary Tree平衡二叉树.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -758,9 +651,6 @@ print(solution())</expression-string>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/equation solution.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ttt.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/LCOF9用两个栈实现队列.py">
@@ -836,13 +726,7 @@ print(solution())</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1596337987/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80828">
-          <caret line="3674" column="8" selection-start-line="3674" selection-start-column="8" selection-end-line="3674" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1596337987/builtins.py" />
     <entry file="file://$PROJECT_DIR$/小米2020秋招.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -850,24 +734,10 @@ print(solution())</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/21. Merge Two Sorted Lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/54. 螺旋矩阵Spiral Matrix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/排序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2904">
-          <caret line="132" column="43" selection-start-line="132" selection-start-column="43" selection-end-line="132" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -923,32 +793,148 @@ print(solution())</expression-string>
     <entry file="file://$PROJECT_DIR$/3.3sum.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/3. Longest Substring Without Repeating Characters.py">
+    <entry file="file://$PROJECT_DIR$/ttt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21. Merge Two Sorted Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCP 19. 秋叶收藏集.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/154/LOCF11 旋转数组的最小数字.py" />
+    <entry file="file://$PROJECT_DIR$/LCOF13. 机器人的运动范围.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/771. 宝石与石头.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/154 LCOF11 旋转数组的最小数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/141. Linked List Cycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/最少完全平方数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="15" />
+        <state relative-caret-position="-88">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Longest Substring Without Repeating Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2904">
+          <caret line="132" column="43" selection-start-line="132" selection-start-column="43" selection-end-line="132" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/235. Lowest Common Ancestor of a Binary Search Tree二叉搜索树的最近公共祖先.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/143. Reorder List重排链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCOF22. 链表中倒数第k个节点.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/349. Intersection of Two Arrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/925. 长按键入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="123">
+            <caret line="102" column="6" selection-start-line="102" selection-start-column="6" selection-end-line="102" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="159">
-            <caret line="189" column="9" selection-start-line="189" selection-start-column="9" selection-end-line="189" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51.N queens.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/297. Serialize and Deserialize Binary Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="103" column="19" selection-start-line="62" selection-end-line="103" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/144.binary-tree-preorder-transversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LCOF剑指 Offer 37. 序列化二叉树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
         </state>
       </provider>
     </entry>
