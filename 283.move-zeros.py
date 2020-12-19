@@ -24,6 +24,24 @@ class Solution:
                     nums[i] = 0
                 j += 1
 
+
+# 双指针 i遇0 则j从j后找到第一个不为0的 交换 然后i=j j继续往后找
+class Solution:
+    def moveZeroes(self, nums: List[int]) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+        i, j = 0, 0
+        while i < len(nums) and j < len(nums):
+            while i < len(nums) and nums[i] != 0:
+                i += 1
+            j = i + 1
+            while j < len(nums) and nums[j] == 0:
+                j += 1
+            if i < len(nums) and j < len(nums):
+                nums[i], nums[j] = nums[j], nums[i]
+
+
 # // java
 # class Solution {
 #     public void moveZeroes(int[] nums) {

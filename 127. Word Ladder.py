@@ -1,4 +1,33 @@
-# # 1、BFS
+# # 1、BFS O(nc^2)
+class Solution:
+    def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
+        set_list = set(wordList)
+        if not wordList or endWord not in set_list:
+            return 0
+        visited = {beginWord, endWord}
+        left, right = {beginWord}, {endWord}
+        number = 0
+        length = len(beginWord)
+        # 当前层中数量少的给left,多的给right
+        while left:
+            number += 1
+            next_level = set()
+            for word in left:
+                for j in range(length):
+                    for m in range(26):
+                        new_word = word[:j] + chr(ord('a') + m) + word[j + 1:]
+                        if new_word in right:
+                            return number + 1
+                        if new_word not in visited and new_word in set_list:
+                            visited.add(new_word)
+                            next_level.add(new_word)
+            left = next_level
+            if len(left) > len(right):
+                left, right = right, left
+        return 0
+
+
+
 class Solution(object):
     def ladderLength(self, beginWord, endWord, wordList):
         if endWord not in wordList: return 0

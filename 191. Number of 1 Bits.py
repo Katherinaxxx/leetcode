@@ -50,7 +50,7 @@ class Solution(object):
         :rtype: int
         """
         count = 0
-        while n!=0:
+        while n:
             n &= (n-1)  # 消除最后一位1
             count += 1
 

@@ -96,6 +96,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 768. Max Chunks To Make Sorted II最多能完成排序的块 II
 * 739. Daily Temperatures
 * 字节2020秋招左右侧第一个最大元素下标
+* LCOF6. 从尾到头打印链表
 ### Deque
 
 * 239.sliding-window-maximum
@@ -118,6 +119,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 46.permutations（无重复数）
 * 47.Permutations II （有重复数）
 * 17.letter-combinations-of-a-phone-number
+* 100. 相同的树
 * 105.Construct Binary Tree from Preorder and Inorder Traversal
 * 106.Construct Binary Tree from Inorder and Postorder Traversal
 * 108. Convert Sorted Array to Binary Search Tree
@@ -151,6 +153,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 301. Remove Invalid Parentheses
 * 1091.Shortest Path in Binary Matrix
 * 滴滴2018岛屿
+* LCOF12. 矩阵中的路径
 ### DP动态规划 
 > 背包问题 dp[x]表示容量为x的背包最多能装多少
 * 5.Longest Palindromic Substring
@@ -249,6 +252,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 344.Reverse String
 * 387. First Unique Character in a String
 * 557. Reverse Words in a String III
+* LCOF5. 替换空格
 ### 图
 * 399. Evaluate Division
 
@@ -268,17 +272,21 @@ other hot keywords：Palindrome(mic), Subsequence
 * equation solution
 * 1025. Divisor Game
 * 面试题64. 求1+2+…+n LCOF
-丢骰子（美团2017）
+* 丢骰子（美团2017）
+* 343 LCOF14- I. 剪绳子
 ### 排序
 * 75. Sort Colors(计数排序/三指针)
 * 148. Sort List（归并）
 * 347. Top K Frequent Elements
 * 215. Kth Largest Element in an Array
 * 406. Queue Reconstruction by Height
+* 452. 用最少数量的箭引爆气球
+* 1030. 距离顺序排列矩阵单元格
 * LCOF40最小的k个数
 * LCOF45把数组排成最小的数
 * 牛牛找工作
 * LCOF51数组中的逆序对
+* 973. 最接近原点的 K 个点
 # SQL
 176. 第二高的薪水
 # tips & tricks
