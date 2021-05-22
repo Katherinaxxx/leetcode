@@ -6,6 +6,10 @@
 @Site : 
 @File : 1143. Longest Common Subsequence.py
 @Software: PyCharm
+"ace" 是 "abcde" 的子序列，但 "aec" 不是 "abcde" 的子序列。
+输入：text1 = "abcde", text2 = "ace"
+输出：3
+解释：最长公共子序列是 "ace" ，它的长度为 3 。
 """
 # 1、暴力递归生成一个的子序列 后在另一个中判断是否存在 O(2^n)
 # 2、dp

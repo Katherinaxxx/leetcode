@@ -33,12 +33,13 @@ other hot keywords：Palindrome(mic), Subsequence
 * 无重复字符最长子串
 * 128. Longest Consecutive Sequence
 * 217. Contains Duplicate
+
 #### 前缀和
 "连续子数组"
 * 74. Subarray Sums Divisible by K
 * 560. Subarray Sum Equals K (前缀+hashmap)
 * 1248. Count Number of Nice Subarrays
-
+* 363. 矩形区域不超过 K 的最大数值和 (困难！没懂透！)
 
 #### 左右边界 中间收敛 （夹逼）双指针  滑窗
 >[滑动窗口leetcode思路题解](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/solution/hua-dong-chuang-kou-tong-yong-si-xiang-jie-jue-zi-/)总结的很好：step1找到可行解step2优化可行解
@@ -57,6 +58,9 @@ other hot keywords：Palindrome(mic), Subsequence
 * 438. Find All Anagrams in a String
 * 567. Permutation in String
 * 最长全1串
+* 27. 移除元素removeElement
+* 剑指 Offer 18. 删除链表的节点
+
 ### Fibonacci
 
 * 70.climbing-stairs
@@ -82,6 +86,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 725. Split Linked List in Parts
 面试题 02.01. 移除重复节点
 * LCOF22. 链表中倒数第k个节点
+
 ### Stack
 "第几个最大/下一个最大""括号"
 * 20.valid-parentheses
@@ -102,6 +107,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 239.sliding-window-maximum
 * 641.design-circular-deque
 * LCOF剑指 Offer 37. 序列化二叉树
+* 剑指 Offer 59 - II. 队列的最大值
 
 ### Tree or Recursion or backtrace or iteration
 * 19. Remove Nth Node From End of List
@@ -143,6 +149,10 @@ other hot keywords：Palindrome(mic), Subsequence
 * 131. Palindrome Partitioning
 * LCOF重建二叉树通过前中还原树
 * LCOF62. 圆圈中最后剩下的数字
+* 剑指 Offer 27. 二叉树的镜像
+* 剑指 Offer 28. 对称的二叉树
+* 1473. 粉刷房子 III
+* 872. 叶子相似的树
 #### DFS\BFS\backtrace
 * 51.N queens
 * 79. Word Search
@@ -154,6 +164,9 @@ other hot keywords：Palindrome(mic), Subsequence
 * 1091.Shortest Path in Binary Matrix
 * 滴滴2018岛屿
 * LCOF12. 矩阵中的路径
+* 1269. 停在原地的方案数
+* 993. 二叉树的堂兄弟节点
+
 ### DP动态规划 
 > 背包问题 dp[x]表示容量为x的背包最多能装多少
 * 5.Longest Palindromic Substring
@@ -196,6 +209,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 美团2019时间内考试最高得分
 * 最少完全平方数
 * LCP 19. 秋叶收藏集
+
 ### Greedy
 * 45. Jump Game II
 * 455.Assign Cookies
@@ -214,8 +228,9 @@ other hot keywords：Palindrome(mic), Subsequence
 * 69.Sqrt(x)
 
 * 74.Search a 2D Matrix
-* 240. Search a 2D Matrix II
+* 240. Search a 2D Matrix II / 剑指 Offer 04. 二维数组中的查找
 * 287. Find the Duplicate Number
+
 ### Trie 
 * 208.Implement Trie (Prefix Tree)
 * 212.Word Search II
@@ -238,6 +253,9 @@ other hot keywords：Palindrome(mic), Subsequence
 * 461. Hamming Distance
 * 1371. Find the Longest Substring Containing Vowels in Even Counts
 * LCOF56数组中数字出现的次数
+* 1720. 解码异或后的数组
+* 1734. 解码异或后的排列
+
 ### string
 
 >字符串匹配：KMP、Sunday
@@ -245,7 +263,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 10.Regular Expression Matching (hard to understand)
 * 13. Roman to Integer
 * 14. Longest Common Prefix
-* 28. Implement strStr() (sunday)
+* 28. Implement strStr() (sunday\kmp\还不会)
 * 43. 字符串相乘Multiply Strings
 * 171. Excel Sheet Column Number
 * 125. Valid Palindrome
@@ -253,6 +271,8 @@ other hot keywords：Palindrome(mic), Subsequence
 * 387. First Unique Character in a String
 * 557. Reverse Words in a String III
 * LCOF5. 替换空格
+* 兴业数金2021春招
+
 ### 图
 * 399. Evaluate Division
 
@@ -274,6 +294,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 面试题64. 求1+2+…+n LCOF
 * 丢骰子（美团2017）
 * 343 LCOF14- I. 剪绳子
+
 ### 排序
 * 75. Sort Colors(计数排序/三指针)
 * 148. Sort List（归并）
@@ -282,13 +303,16 @@ other hot keywords：Palindrome(mic), Subsequence
 * 406. Queue Reconstruction by Height
 * 452. 用最少数量的箭引爆气球
 * 1030. 距离顺序排列矩阵单元格
+* 692. 前K个高频单词
 * LCOF40最小的k个数
 * LCOF45把数组排成最小的数
 * 牛牛找工作
 * LCOF51数组中的逆序对
 * 973. 最接近原点的 K 个点
+
 # SQL
 176. 第二高的薪水
+
 # tips & tricks
 print("%.6f" % a)   # 腾讯笔试因为这个没过
 $\Sigma_{i=0}^{n}iC_n^i=n2^{n-1}$

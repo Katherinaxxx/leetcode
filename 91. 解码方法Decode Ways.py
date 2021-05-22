@@ -4,15 +4,10 @@
 @Time : 2019/11/15 下午3:59
 @Author : Catherinexxx
 @Site : 
-@File : 91. Decode Ways.py
+@File : 91. 解码方法Decode Ways.py
 @Software: PyCharm
 """
-# DP
-# n = len(s)
-# count[n] = count[n-1] + count[n-2]  int(s[(n-2):n])<=26
-# s=123323
-# c0 = 1
-# c1 =
+# DP O(n) O(n)
 class Solution:
     def numDecodings(self, s: str) -> int:
         n = len(s)
@@ -34,6 +29,23 @@ class Solution:
                     dp[i+1]=dp[i]
         return dp[-1]
 
+# dp优化空间 用滚动数组 O(n) O(1)
+class Solution:
+    def numDecodings(self, s: str) -> int:
+        if s[0] == '0': return 0
+        a, b = 1, 1
+        for i in range(1, len(s)):
+            if s[i] == '0':
+                if s[i-1] == '1' or s[i-1] == '2':
+                    a, b = b, a
+                else:
+                    return 0
+            else:
+                if s[i-1] == '1' or (s[i-1]=='2' and '0'<=s[i]<='6'):
+                    a, b = b, a + b
+                else:
+                    a, b = b, b
+        return b
 # 晦涩
 class Solution:
     def numDecodings(self, s: str) -> int:

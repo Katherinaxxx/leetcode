@@ -39,3 +39,16 @@ class Solution:
         d = {'I':1, 'IV':3, 'V':5, 'IX':8, 'X':10, 'XL':30, 'L':50, 'XC':80, 'C':100, 'CD':300, 'D':500, 'CM':800, 'M':1000}
         return sum(d.get(s[max(i-1, 0):i+1], d[n]) for i, n in enumerate(s))
     # dict.get(key, default=None) 如果key不存在可 返回default
+
+# 首先建立一个HashMap来映射符号和值，然后对字符串从左到右来，如果当前字符代表的值不小于其右边，就加上该值；否则就减去该值。以此类推到最左边的数，最终得到的结果即是答案
+# O(n) O(n)
+class Solution:
+    def romanToInt(self, s: str) -> int:
+        h = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M':1000}
+        ans = 0
+        for i in range(len(s)):
+            if i<len(s)-1 and h[s[i]] < h[s[i+1]]:
+                ans -= h[s[i]]
+            else:
+                ans += h[s[i]]
+        return ans8

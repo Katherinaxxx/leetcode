@@ -16,23 +16,23 @@
 #         self.right = None
 
 # 1、迭代 stack
-# class Solution:
-#     def inorderTraversal(self, root: TreeNode) -> List[int]:
-#         res = []
-#         stack = []
-#         # 用p当做指针
-#         p = root
-#         while True:
-#             # 把左子树压入栈中
-#             while p:
-#                 stack.append(p)
-#                 p = p.left
-#             # 输出 栈顶元素
-#             p = stack.pop()
-#             res.append(p.val)
-#             # 看右子树
-#             p = p.right
-#         return res
+class Solution:
+    def inorderTraversal(self, root: TreeNode) -> List[int]:
+        res = []
+        stack = []
+        # 用p当做指针
+        p = root
+        while True:
+            # 把左子树压入栈中
+            while p:
+                stack.append(p)
+                p = p.left
+            # 输出 栈顶元素
+            p = stack.pop()
+            res.append(p.val)
+            # 看右子树
+            p = p.right
+        return res
 
 # # 2、递归 中序
 class Solution:
