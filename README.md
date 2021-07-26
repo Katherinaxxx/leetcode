@@ -40,7 +40,8 @@ other hot keywords：Palindrome(mic), Subsequence
 * 560. Subarray Sum Equals K (前缀+hashmap)
 * 1248. Count Number of Nice Subarrays
 * 363. 矩形区域不超过 K 的最大数值和 (困难！没懂透！)
-
+* 523. 连续的子数组和
+* 525. 连续数组
 #### 左右边界 中间收敛 （夹逼）双指针  滑窗
 >[滑动窗口leetcode思路题解](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/solution/hua-dong-chuang-kou-tong-yong-si-xiang-jie-jue-zi-/)总结的很好：step1找到可行解step2优化可行解
 [powcai大腿的模版](https://leetcode-cn.com/problems/minimum-window-substring/solution/hua-dong-chuang-kou-by-powcai-2/)
@@ -60,7 +61,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 最长全1串
 * 27. 移除元素removeElement
 * 剑指 Offer 18. 删除链表的节点
-
+* 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面
 ### Fibonacci
 
 * 70.climbing-stairs
@@ -102,12 +103,17 @@ other hot keywords：Palindrome(mic), Subsequence
 * 739. Daily Temperatures
 * 字节2020秋招左右侧第一个最大元素下标
 * LCOF6. 从尾到头打印链表
+* 63. 股票的最大利润
+* 1190. 反转每对括号间的子串
+* 剑指 Offer 30. 包含min函数的栈
+
 ### Deque
 
 * 239.sliding-window-maximum
 * 641.design-circular-deque
 * LCOF剑指 Offer 37. 序列化二叉树
 * 剑指 Offer 59 - II. 队列的最大值
+* 剑指 Offer 32 - II. 从上到下打印二叉树 II
 
 ### Tree or Recursion or backtrace or iteration
 * 19. Remove Nth Node From End of List
@@ -153,6 +159,8 @@ other hot keywords：Palindrome(mic), Subsequence
 * 剑指 Offer 28. 对称的二叉树
 * 1473. 粉刷房子 III
 * 872. 叶子相似的树
+* 203. 移除链表元素
+
 #### DFS\BFS\backtrace
 * 51.N queens
 * 79. Word Search
@@ -166,6 +174,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * LCOF12. 矩阵中的路径
 * 1269. 停在原地的方案数
 * 993. 二叉树的堂兄弟节点
+* 剑指 Offer 26. 树的子结构
 
 ### DP动态规划 
 > 背包问题 dp[x]表示容量为x的背包最多能装多少
@@ -255,6 +264,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * LCOF56数组中数字出现的次数
 * 1720. 解码异或后的数组
 * 1734. 解码异或后的排列
+* 168. Excel表列名称
 
 ### string
 

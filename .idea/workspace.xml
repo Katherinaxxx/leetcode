@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7094092-3e2e-4806-aaa6-5a02d7e79836" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1143. Longest Common Subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/1143. Longest Common Subsequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13. Roman to Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/13. Roman to Integer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21. Merge Two Sorted Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/21. Merge Two Sorted Lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28. Implement strStr().py" beforeDir="false" afterPath="$PROJECT_DIR$/28. Implement strStr().py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/91. Decode Ways.py" beforeDir="false" afterPath="$PROJECT_DIR$/91. 解码方法Decode Ways.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/94.binary-tree-inorder-traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/94.binary-tree-inorder-traversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/160. Intersection of Two Linked Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/160. Intersection of Two Linked Lists.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,51 +19,74 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="291">
-                <caret line="109" column="26" selection-start-line="109" selection-start-column="26" selection-end-line="109" selection-end-column="26" />
+              <first_editor relative-caret-position="198">
+                <caret line="116" selection-start-line="116" selection-end-line="116" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="剑指 Offer 59 - II. 队列的最大值.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/剑指 Offer 59 - II. 队列的最大值.py">
+      <file leaf-file-name="剑指 Offer 30. 包含min函数的栈.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/剑指 Offer 30. 包含min函数的栈.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="814">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="700">
+              <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1035. 不相交的线.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1035. 不相交的线.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="347. Top K Frequent Elements.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/347. Top K Frequent Elements.py">
+      <file leaf-file-name="10. Regular Expression Matching.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10. Regular Expression Matching.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="692. 前K个高频单词.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/692. 前K个高频单词.py">
+      <file leaf-file-name="剑指 Offer 32 - II. 从上到下打印二叉树 II.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/剑指 Offer 32 - II. 从上到下打印二叉树 II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="392">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="993. 二叉树的堂兄弟节点.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/993. 二叉树的堂兄弟节点.py">
+      <file leaf-file-name="1734. 解码异或后的排列.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1734. 解码异或后的排列.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1100">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="572">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="剑指 Offer 26. 树的子结构.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/剑指 Offer 26. 树的子结构.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="279. Perfect Squares.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/279. Perfect Squares.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="203. 移除链表元素.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/203. 移除链表元素.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="880">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="494. Target Sum.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/494. Target Sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1254">
+              <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -84,7 +102,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>longest</find>
       <find>max</find>
       <find>square</find>
       <find>84</find>
@@ -114,6 +131,7 @@
       <find>240</find>
       <find>28</find>
       <find>frequ</find>
+      <find>排列</find>
     </findStrings>
     <replaceStrings>
       <replace>stack</replace>
@@ -127,18 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LCOF22. 链表中倒数第k个节点.py" />
-        <option value="$PROJECT_DIR$/925. 长按键入.py" />
-        <option value="$PROJECT_DIR$/144.binary-tree-preorder-transversal.py" />
-        <option value="$PROJECT_DIR$/349. Intersection of Two Arrays.py" />
-        <option value="$PROJECT_DIR$/51.N queens.py" />
-        <option value="$PROJECT_DIR$/剑指 Offer 37. 序列化二叉树.py" />
-        <option value="$PROJECT_DIR$/LCOF剑指 Offer 37. 序列化二叉树.py" />
-        <option value="$PROJECT_DIR$/127. Word Ladder.py" />
-        <option value="$PROJECT_DIR$/LCOF5. 替换空格.py" />
-        <option value="$PROJECT_DIR$/LCOF6. 从尾到头打印链表.py" />
-        <option value="$PROJECT_DIR$/973. 最接近原点的 K 个点.py" />
-        <option value="$PROJECT_DIR$/31. Next Permutation.py" />
         <option value="$PROJECT_DIR$/LCOF12. 矩阵中的路径.py" />
         <option value="$PROJECT_DIR$/191. Number of 1 Bits.py" />
         <option value="$PROJECT_DIR$/1122. 数组的相对排序.py" />
@@ -176,15 +182,27 @@
         <option value="$PROJECT_DIR$/993. 二叉树的堂兄弟节点.py" />
         <option value="$PROJECT_DIR$/692. 前K个高频单词.py" />
         <option value="$PROJECT_DIR$/1035. 不相交的线.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/剑指 Offer 59 - II. 队列的最大值.py" />
+        <option value="$PROJECT_DIR$/剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.py" />
+        <option value="$PROJECT_DIR$/剑指 Offer 63. 股票的最大利润.py" />
+        <option value="$PROJECT_DIR$/1190. 反转每对括号间的子串.py" />
+        <option value="$PROJECT_DIR$/523. 连续的子数组和.py" />
+        <option value="$PROJECT_DIR$/525. 连续数组.py" />
+        <option value="$PROJECT_DIR$/160. Intersection of Two Linked Lists.py" />
+        <option value="$PROJECT_DIR$/203. 移除链表元素.py" />
+        <option value="$PROJECT_DIR$/剑指 Offer 38. 字符串的排列.py" />
+        <option value="$PROJECT_DIR$/剑指 Offer 26. 树的子结构.py" />
+        <option value="$PROJECT_DIR$/168. Excel表列名称.py" />
+        <option value="$PROJECT_DIR$/剑指 Offer 30. 包含min函数的栈.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/剑指 Offer 32 - II. 从上到下打印二叉树 II.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="804" />
+    <option name="height" value="801" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -409,15 +427,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="801" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26680973" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27539343" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32756132" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3281471" />
-      <window_info anchor="bottom" id="Python Console" order="7" visible="true" weight="0.28551137" />
+      <window_info anchor="bottom" id="Python Console" order="7" visible="true" weight="0.31294453" />
       <window_info anchor="right" id="leetcode" order="3" side_tool="true" weight="0.16738197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.328125" />
@@ -610,96 +628,6 @@ print(solution())</expression-string>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LCOF12. 矩阵中的路径.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="95" column="20" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1030. 距离顺序排列矩阵单元格.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/31. Next Permutation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/496. Next Greater Element I.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1122. 数组的相对排序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/343 LCOF14- I. 剪绳子.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/127. Word Ladder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/973. 最接近原点的 K 个点.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LCOF6. 从尾到头打印链表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/134. 加油站.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/283.move-zeros.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/452. 用最少数量的箭引爆气球.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/100. 相同的树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/谱时昊唯/s.py" />
-    <entry file="file://$PROJECT_DIR$/谱时昊唯/part2.py" />
-    <entry file="file://$PROJECT_DIR$/谱时昊唯/part1.py" />
     <entry file="file://$PROJECT_DIR$/京东2020秋招.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-70" />
@@ -860,13 +788,6 @@ print(solution())</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1734. 解码异或后的排列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/13. Roman to Integer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -900,16 +821,123 @@ print(solution())</expression-string>
     </entry>
     <entry file="file://$PROJECT_DIR$/1035. 不相交的线.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
+        <state relative-caret-position="792">
           <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指 Offer 63. 股票的最大利润.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/461. Hamming Distance.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/523. 连续的子数组和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/525. 连续数组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/160. Intersection of Two Linked Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="72" column="16" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1190. 反转每对括号间的子串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指 Offer 59 - II. 队列的最大值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/203. 移除链表元素.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/494. Target Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/279. Perfect Squares.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1734. 解码异或后的排列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指 Offer 38. 字符串的排列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指 Offer 26. 树的子结构.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/168. Excel表列名称.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10. Regular Expression Matching.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指 Offer 30. 包含min函数的栈.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="291">
-            <caret line="109" column="26" selection-start-line="109" selection-start-column="26" selection-end-line="109" selection-end-column="26" />
+          <first_editor relative-caret-position="198">
+            <caret line="116" selection-start-line="116" selection-end-line="116" />
           </first_editor>
           <second_editor />
         </state>
@@ -920,10 +948,10 @@ print(solution())</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/剑指 Offer 59 - II. 队列的最大值.py">
+    <entry file="file://$PROJECT_DIR$/剑指 Offer 32 - II. 从上到下打印二叉树 II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="392">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>

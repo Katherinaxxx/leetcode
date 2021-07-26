@@ -51,3 +51,23 @@ class Solution:
             cur1 = cur1.next if cur1 else headB
             cur2 = cur2.next if cur2 else headA
         return cur1
+
+
+# 假设headA, headB是有交点的, 他们整个移动的路径像一个 8 字. 我觉得这个有点像莫比乌斯环~, 两个指针的起始位置虽然不一样, 但是大家的走的步伐是一致的, 而且朝着相交的点在移动, 于是可以相遇
+
+class Solution:
+    def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> ListNode:
+
+        a, b = headA, headB
+        while a != b:
+            if a:
+                a = a.next
+            else:
+                a = headB
+
+            if b:
+                b = b.next
+            else:
+                b = headA
+
+        return a
