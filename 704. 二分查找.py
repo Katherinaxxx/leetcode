@@ -1,0 +1,23 @@
+'''
+Author: Catherine Xiong
+Date: 2021-09-06 19:22:21
+LastEditTime: 2021-09-06 19:24:13
+LastEditors: Catherine Xiong
+Description: 给定一个 n 个元素有序的（升序）整型数组 nums 和一个目标值 target  ，写一个函数搜索 nums 中的 target，如果目标值存在返回下标，否则返回 -1。
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/binary-search
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+'''
+class Solution:
+    def search(self, nums: List[int], target: int) -> int:
+        i, j = 0, len(nums) - 1
+        while i <= j:
+            mid = (i + j) // 2
+            if nums[mid] > target:
+                j = mid - 1
+            elif nums[mid] < target:
+                i = mid + 1
+            else:
+                return mid
+        return -1

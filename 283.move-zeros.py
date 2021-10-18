@@ -1,12 +1,10 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-@Time : 2019/10/16 下午12:09
-@Author : Catherinexxx
-@Site : 
-@File : move-zeros.py
-@Software: PyCharm
-"""
+'''
+Author: Catherine Xiong
+Date: 2020-11-19 22:10:44
+LastEditTime: 2021-10-14 19:14:05
+LastEditors: Catherine Xiong
+Description: 
+'''
 
 # python
 
@@ -19,9 +17,7 @@ class Solution:
         j = 0
         for i in range(len(nums)):
             if nums[i] != 0:
-                nums[j] = nums[i]
-                if i != j:
-                    nums[i] = 0
+                nums[j], nums[i] = nums[i],nums[j]
                 j += 1
 
 

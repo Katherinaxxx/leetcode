@@ -27,8 +27,8 @@ class Solution:
         return f[n]%1000000007
 
 # # lru_cache + 递归
-# import functools
-# class Solution:
-#     @functools.lru_cache
-#     def fib(self, n: int) -> int:
-#         return n if n < 2 else (self.fib(n-1) + self.fib(n-2))%1000000007
+import functools
+class Solution:
+    @functools.lru_cache
+    def fib(self, n: int) -> int:
+        return n if n < 2 else (self.fib(n-1) + self.fib(n-2))%1000000007

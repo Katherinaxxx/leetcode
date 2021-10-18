@@ -1,11 +1,10 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-@Time : 2021/7/26 10:44 PM
-@Author : Catherinexxx
-@File : 剑指 Offer 32 - II. 从上到下打印二叉树 II.py
-@Description: 从上到下按层打印二叉树，同一层的节点按从左到右的顺序打印，每一层打印到一行。
-"""
+'''
+Author: Catherine Xiong
+Date: 2021-07-26 22:45:31
+LastEditTime: 2021-09-28 00:04:20
+LastEditors: Catherine Xiong
+Description: 
+'''
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, x):
@@ -29,5 +28,22 @@ class Solution:
                 if cur.right: queue.append(cur.right)
             res.append(cur_res)
         return res
+
+class Solution:
+    def levelOrder(self, root: TreeNode) -> List[int]:
+        if not root: return []
+        res = []
+        cur_level = [root]
+        while cur_level:
+            next_level = []
+            for node in cur_level:
+                res.append(node.val)
+                if node.left:
+                    next_level.append(node.left)
+                if node.right:
+                    next_level.append(node.right)
+            cur_level = next_level
+        return res
+
 
 

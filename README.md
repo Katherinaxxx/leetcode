@@ -3,6 +3,7 @@
 other hot keywords：Palindrome(mic), Subsequence
 
 ### Array
+
 * 54. 螺旋矩阵Spiral Matrix 顺时针打印矩阵
 * 31. Next Permutation
 * 238. Product of Array Except Self
@@ -22,6 +23,11 @@ other hot keywords：Palindrome(mic), Subsequence
 * 美团2019路由器接收信号
 * LCOF03. 数组中重复的数字
 * 154 LCOF11 旋转数组的最小数字
+* 1137. 第 N 个泰波那契数
+* 剑指 Offer 58 - II. 左旋转字符串
+* 剑指 Offer 22. 链表中倒数第k个节点
+* 1894. 找到需要补充粉笔的学生编号
+
 #### HashMap
 
 * 1.two-sum
@@ -33,21 +39,26 @@ other hot keywords：Palindrome(mic), Subsequence
 * 无重复字符最长子串
 * 128. Longest Consecutive Sequence
 * 217. Contains Duplicate
+* 剑指 Offer 50. 第一个只出现一次的字符
+* 447. 回旋镖的数量
 
 #### 前缀和
-"连续子数组"
+
+"连续子数组"\"差分数组"
 * 74. Subarray Sums Divisible by K
 * 560. Subarray Sum Equals K (前缀+hashmap)
 * 1248. Count Number of Nice Subarrays
 * 363. 矩形区域不超过 K 的最大数值和 (困难！没懂透！)
 * 523. 连续的子数组和
 * 525. 连续数组
+* 1109. 航班预订统计【区间求和】
+
 #### 左右边界 中间收敛 （夹逼）双指针  滑窗
+
 >[滑动窗口leetcode思路题解](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/solution/hua-dong-chuang-kou-tong-yong-si-xiang-jie-jue-zi-/)总结的很好：step1找到可行解step2优化可行解
 [powcai大腿的模版](https://leetcode-cn.com/problems/minimum-window-substring/solution/hua-dong-chuang-kou-by-powcai-2/)
 "连续子数组"
 * 3.3sum
-
 * 11.container-with-most-water
 * 16. 3Sum Closest
 * 26.remove-duplicates-from-sorted-array
@@ -62,13 +73,27 @@ other hot keywords：Palindrome(mic), Subsequence
 * 27. 移除元素removeElement
 * 剑指 Offer 18. 删除链表的节点
 * 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面
+* 剑指 Offer 57. 和为s的两个数字
+* 611. 有效三角形的个数
+* 165. 比较版本号
+* 977. 有序数组的平方
+* 167. 两数之和 II - 输入有序数组
+
+
 ### Fibonacci
 
 * 70.climbing-stairs
 * LCOF10斐波那契数列
 * 509.LCOF青蛙跳台阶问题
 
+### 二分
+
+* 剑指 Offer 53 - I. 在排序数组中查找数字 I
+* 剑指 Offer 53 - II. 0～n-1中缺失的数字
+* 162. 寻找峰值
+
 ### Linked List
+
 * 21.Merge Two Sorted Lists合并排序链表 [hot]
 * 23. Merge k Sorted Lists
 * 61. 旋转链表Rotate List
@@ -77,7 +102,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 142. Linked List Cycle II (floyd找出环起点)
 * 146.LRU Cache
 * LCOF24 206.Reverse Linked List [hot]
-* 92.Reverse Linked List II
+* 92. Reverse Linked List II
 * Add Two Numbers
 * 160. Intersection of Two Linked Lists
 * 143. Reorder List重排链表 （取中电、反转、交叉合并）
@@ -85,8 +110,9 @@ other hot keywords：Palindrome(mic), Subsequence
 * 237. Delete Node in a Linked List
 * 328. Odd Even Linked List
 * 725. Split Linked List in Parts
-面试题 02.01. 移除重复节点
+* 面试题 02.01. 移除重复节点
 * LCOF22. 链表中倒数第k个节点
+* 剑指 Offer 52. 两个链表的第一个公共节点
 
 ### Stack
 "第几个最大/下一个最大""括号"
@@ -106,7 +132,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 63. 股票的最大利润
 * 1190. 反转每对括号间的子串
 * 剑指 Offer 30. 包含min函数的栈
-
+* 剑指 Offer 31. 栈的压入、弹出序列
 ### Deque
 
 * 239.sliding-window-maximum
@@ -160,6 +186,10 @@ other hot keywords：Palindrome(mic), Subsequence
 * 1473. 粉刷房子 III
 * 872. 叶子相似的树
 * 203. 移除链表元素
+* 剑指 Offer 55 - I. 二叉树的深度
+* 526. 优美的排列
+* 剑指 Offer 54. 二叉搜索树的第k大节点
+* 326. 3的幂
 
 #### DFS\BFS\backtrace
 * 51.N queens
@@ -175,8 +205,10 @@ other hot keywords：Palindrome(mic), Subsequence
 * 1269. 停在原地的方案数
 * 993. 二叉树的堂兄弟节点
 * 剑指 Offer 26. 树的子结构
+* 797. 所有可能的路径
+* 剑指 Offer 35. 复杂链表的复制
 
-### DP动态规划 
+### DP动态规划 / 背包问题 / 状态机
 > 背包问题 dp[x]表示容量为x的背包最多能装多少
 * 5.Longest Palindromic Substring
 * 53.Maximum Subarray
@@ -218,11 +250,14 @@ other hot keywords：Palindrome(mic), Subsequence
 * 美团2019时间内考试最高得分
 * 最少完全平方数
 * LCP 19. 秋叶收藏集
+* 552. 学生出勤记录 II
+* 787. K 站中转内最便宜的航班
+* 剑指 Offer 19. 正则表达式匹配
 
 ### Greedy
+
 * 45. Jump Game II
 * 455.Assign Cookies
-
 * 122.Best Time to Buy and Sell Stock II
 
 * 55.Jump Game
@@ -239,6 +274,9 @@ other hot keywords：Palindrome(mic), Subsequence
 * 74.Search a 2D Matrix
 * 240. Search a 2D Matrix II / 剑指 Offer 04. 二维数组中的查找
 * 287. Find the Duplicate Number
+* 704. 二分查找
+* 278. 第一个错误的版本
+* 35. 搜索插入位置
 
 ### Trie 
 * 208.Implement Trie (Prefix Tree)
@@ -265,6 +303,9 @@ other hot keywords：Palindrome(mic), Subsequence
 * 1720. 解码异或后的数组
 * 1734. 解码异或后的排列
 * 168. Excel表列名称
+* 371. 两整数之和
+* 187. 重复的DNA序列
+
 
 ### string
 
@@ -282,6 +323,9 @@ other hot keywords：Palindrome(mic), Subsequence
 * 557. Reverse Words in a String III
 * LCOF5. 替换空格
 * 兴业数金2021春招
+* 1221. 分割平衡字符串
+* 524. 通过删除字母匹配到字典里最长单词
+
 
 ### 图
 * 399. Evaluate Division
@@ -304,6 +348,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 面试题64. 求1+2+…+n LCOF
 * 丢骰子（美团2017）
 * 343 LCOF14- I. 剪绳子
+* 剑指 Offer 57 - II. 和为s的连续正数序列
 
 ### 排序
 * 75. Sort Colors(计数排序/三指针)
@@ -319,6 +364,8 @@ other hot keywords：Palindrome(mic), Subsequence
 * 牛牛找工作
 * LCOF51数组中的逆序对
 * 973. 最接近原点的 K 个点
+* 881. 救生艇
+* 502. IPO
 
 # SQL
 176. 第二高的薪水

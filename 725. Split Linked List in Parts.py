@@ -1,12 +1,10 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-@Time : 2020/6/14 下午3:53
-@Author : Catherinexxx
-@Site : 
-@File : 725. Split Linked List in Parts.py
-@Software: PyCharm
-"""
+'''
+Author: Catherine Xiong
+Date: 2020-06-14 15:55:28
+LastEditTime: 2021-09-23 22:02:05
+LastEditors: Catherine Xiong
+Description: 
+'''
 """
 给定一个头结点为 root 的链表, 编写一个函数以将链表分隔为 k 个连续的部分。
 
@@ -41,4 +39,30 @@ class Solution:
                 nodes[j - 1].next = None
             else:
                 ans.append(None)
+        return ans
+
+class Solution:
+    def splitListToParts(self, head: ListNode, k: int) -> List[ListNode]:
+        n = 0
+        ptr = head
+        while ptr:
+            n += 1
+            ptr = ptr.next
+        
+        ans = []
+        ptr = head
+        a, b = n // k, n % k
+        for i in range(1, k+1):
+            t = ListNode()
+            p = t
+            for j in range(a):
+                p.next = ListNode(ptr.val)
+                ptr = ptr.next
+                p = p.next
+            if i <= b:
+                p.next = ListNode(ptr.val)
+                ptr = ptr.next
+                p = p.next
+            ans.append(t.next)
+
         return ans
