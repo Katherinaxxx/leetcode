@@ -27,6 +27,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 剑指 Offer 58 - II. 左旋转字符串
 * 剑指 Offer 22. 链表中倒数第k个节点
 * 1894. 找到需要补充粉笔的学生编号
+* 495. 提莫攻击
 
 #### HashMap
 
@@ -113,6 +114,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 面试题 02.01. 移除重复节点
 * LCOF22. 链表中倒数第k个节点
 * 剑指 Offer 52. 两个链表的第一个公共节点
+* 876. 链表的中间结点
 
 ### Stack
 "第几个最大/下一个最大""括号"
@@ -133,6 +135,8 @@ other hot keywords：Palindrome(mic), Subsequence
 * 1190. 反转每对括号间的子串
 * 剑指 Offer 30. 包含min函数的栈
 * 剑指 Offer 31. 栈的压入、弹出序列
+* 503. 下一个更大元素 II
+
 ### Deque
 
 * 239.sliding-window-maximum
@@ -207,7 +211,8 @@ other hot keywords：Palindrome(mic), Subsequence
 * 剑指 Offer 26. 树的子结构
 * 797. 所有可能的路径
 * 剑指 Offer 35. 复杂链表的复制
-
+* 733. 图像渲染
+* 695. 岛屿的最大面积
 ### DP动态规划 / 背包问题 / 状态机
 > 背包问题 dp[x]表示容量为x的背包最多能装多少
 * 5.Longest Palindromic Substring
@@ -272,11 +277,12 @@ other hot keywords：Palindrome(mic), Subsequence
 * 69.Sqrt(x)
 
 * 74.Search a 2D Matrix
-* 240. Search a 2D Matrix II / 剑指 Offer 04. 二维数组中的查找
+* 240. Search a 2D Matrix II 搜索二维矩阵 II / 剑指 Offer 04. 二维数组中的查找
 * 287. Find the Duplicate Number
 * 704. 二分查找
 * 278. 第一个错误的版本
 * 35. 搜索插入位置
+* 74. 搜索二维矩阵
 
 ### Trie 
 * 208.Implement Trie (Prefix Tree)
@@ -305,7 +311,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 168. Excel表列名称
 * 371. 两整数之和
 * 187. 重复的DNA序列
-
+* 剑指 Offer 65. 不用加减乘除做加法
 
 ### string
 
@@ -349,6 +355,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 丢骰子（美团2017）
 * 343 LCOF14- I. 剪绳子
 * 剑指 Offer 57 - II. 和为s的连续正数序列
+* 367. 有效的完全平方数
 
 ### 排序
 * 75. Sort Colors(计数排序/三指针)

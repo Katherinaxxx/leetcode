@@ -1,12 +1,10 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-@Time : 2020/5/16 下午3:48
-@Author : Catherinexxx
-@Site : 
-@File : 3. Longest Substring Without Repeating Characters.py
-@Software: PyCharm
-"""
+'''
+Author: Catherine Xiong
+Date: 2020-09-28 13:02:26
+LastEditTime: 2021-10-19 20:51:59
+LastEditors: Catherine Xiong
+Description: 
+'''
 """
 给定一个字符串，请你找出其中不含有重复字符的 最长子串 的长度。
 """
@@ -24,7 +22,7 @@ class Solution:
         start = 0
         end = 0
         max_len = 0
-        counter = 0
+        counter = 0 # 记录重复数目
         while end < len(s):
             # 之前走过
             if lookup[s[end]] > 0:

@@ -1,12 +1,10 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-@Time : 2019/10/18 下午9:20
-@Author : Catherinexxx
-@Site : 
-@File : 42.trapping-rain-water.py
-@Software: PyCharm
-"""
+'''
+Author: Catherine Xiong
+Date: 2019-10-24 11:39:01
+LastEditTime: 2021-11-04 22:07:14
+LastEditors: Catherine Xiong
+Description: 
+'''
 # class Solution:
 #     def trap(self, h):
 #         res = 0
@@ -73,3 +71,14 @@ class Solution:
             stack.append(i)
         return res
 
+
+class Solution:
+    def trap(self, height: List[int]) -> int:
+        ans = 0
+        h1 = 0
+        h2 = 0
+        for i in range(len(height)):
+            h1 = max(h1,height[i])
+            h2 = max(h2,height[-i-1])
+            ans = ans + h1 + h2 -height[i]
+        return  ans - len(height)*h1

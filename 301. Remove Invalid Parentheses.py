@@ -1,12 +1,10 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-@Time : 2020/5/22 下午2:59
-@Author : Catherinexxx
-@Site : 
-@File : 301. Remove Invalid Parentheses.py
-@Software: PyCharm
-"""
+'''
+Author: Catherine Xiong
+Date: 2020-05-22 14:59:57
+LastEditTime: 2021-10-27 21:08:43
+LastEditors: Catherine Xiong
+Description: 
+'''
 """
 删除最小数量的无效括号，使得输入的字符串有效，返回所有可能的结果。
 """
@@ -38,3 +36,19 @@ class Solution:
                     if item[i] in "()":  # 如果item[i]这个char是个括号就删了，如果不是括号就留着
                         next_level.add(item[:i] + item[i + 1:])
             level = next_level
+
+class Solution:
+    def removeInvalidParentheses(self, s: str) -> List[str]:
+
+        @lru_cache(None)
+        def dfs(i, l):
+            if l < 0: return []  # 左括号不够，一定无效
+            if i == len(s): return [""] if l == 0 else []  # i 遍历结束时，l为0才有效，否则无效
+
+            if s[i] in "()":
+                ans = dfs(i+1, l) + [s[i] + x for x in dfs(i+1, l+(1 if s[i]=="(" else -1))]
+                return list(set(x for x in ans if len(x)==max(map(len, ans))))  # 取最长的几个并去重
+            return [s[i] + x for x in dfs(i+1, l)]  # 检测到非括号，接着往下走即可
+
+        return dfs(0, 0)
+
