@@ -28,6 +28,8 @@ other hot keywords：Palindrome(mic), Subsequence
 * 剑指 Offer 22. 链表中倒数第k个节点
 * 1894. 找到需要补充粉笔的学生编号
 * 495. 提莫攻击
+* 384. 打乱数组
+* 剑指 Offer 61. 扑克牌中的顺子
 
 #### HashMap
 
@@ -194,6 +196,12 @@ other hot keywords：Palindrome(mic), Subsequence
 * 526. 优美的排列
 * 剑指 Offer 54. 二叉搜索树的第k大节点
 * 326. 3的幂
+* 剑指 Offer 36. 二叉搜索树与双向链表
+* 剑指 Offer 55 - II. 平衡二叉树
+* 700. 二叉搜索树中的搜索
+* 剑指 Offer 68 - I. 二叉搜索树的最近公共祖先
+* 剑指 Offer 68 - II. 二叉树的最近公共祖先
+* 剑指 Offer 33. 二叉搜索树的后序遍历序列
 
 #### DFS\BFS\backtrace
 * 51.N queens
@@ -331,7 +339,9 @@ other hot keywords：Palindrome(mic), Subsequence
 * 兴业数金2021春招
 * 1221. 分割平衡字符串
 * 524. 通过删除字母匹配到字典里最长单词
-
+* 318. 最大单词长度乘积
+* 859. 亲密字符串
+* 423. 从英文中重建数字
 
 ### 图
 * 399. Evaluate Division
