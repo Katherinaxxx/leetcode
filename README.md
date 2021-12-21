@@ -44,6 +44,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 217. Contains Duplicate
 * 剑指 Offer 50. 第一个只出现一次的字符
 * 447. 回旋镖的数量
+* 506. 相对名次
 
 #### 前缀和
 
@@ -202,6 +203,8 @@ other hot keywords：Palindrome(mic), Subsequence
 * 剑指 Offer 68 - I. 二叉搜索树的最近公共祖先
 * 剑指 Offer 68 - II. 二叉树的最近公共祖先
 * 剑指 Offer 33. 二叉搜索树的后序遍历序列
+* 剑指 Offer 34. 二叉树中和为某一值的路径
+* 剑指 Offer 32 - III. 从上到下打印二叉树 III
 
 #### DFS\BFS\backtrace
 * 51.N queens
@@ -221,6 +224,9 @@ other hot keywords：Palindrome(mic), Subsequence
 * 剑指 Offer 35. 复杂链表的复制
 * 733. 图像渲染
 * 695. 岛屿的最大面积
+* 1034. 边框着色
+
+
 ### DP动态规划 / 背包问题 / 状态机
 > 背包问题 dp[x]表示容量为x的背包最多能装多少
 * 5.Longest Palindromic Substring
@@ -266,6 +272,9 @@ other hot keywords：Palindrome(mic), Subsequence
 * 552. 学生出勤记录 II
 * 787. K 站中转内最便宜的航班
 * 剑指 Offer 19. 正则表达式匹配
+* 剑指 Offer 49. 丑数
+* 剑指 Offer 66. 构建乘积数组
+
 
 ### Greedy
 
@@ -320,6 +329,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 371. 两整数之和
 * 187. 重复的DNA序列
 * 剑指 Offer 65. 不用加减乘除做加法
+* 剑指 Offer 56 - II. 数组中数字出现的次数 II
 
 ### string
 
@@ -342,6 +352,10 @@ other hot keywords：Palindrome(mic), Subsequence
 * 318. 最大单词长度乘积
 * 859. 亲密字符串
 * 423. 从英文中重建数字
+* 1446. 连续字符
+* 剑指 Offer 67. 把字符串转换成整数
+* 面试题 01.01. 判定字符是否唯一
+* 面试题 01.02. 判定是否互为字符重排
 
 ### 图
 * 399. Evaluate Division
