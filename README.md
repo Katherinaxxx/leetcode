@@ -33,7 +33,7 @@ other hot keywords：Palindrome(mic), Subsequence
 
 #### HashMap
 
-* 1.two-sum
+* 1.two-sum 两数之和
 * 41. First Missing Positive
 * 454. 4Sum II
 * 242.valid-anagram
@@ -64,6 +64,7 @@ other hot keywords：Palindrome(mic), Subsequence
 "连续子数组"
 * 3.3sum
 * 11.container-with-most-water
+* 15. 三数之和
 * 16. 3Sum Closest
 * 26.remove-duplicates-from-sorted-array
 * 3. Longest Substring Without Repeating Characters最长不含重复字符的子字符串
@@ -98,6 +99,7 @@ other hot keywords：Palindrome(mic), Subsequence
 
 ### Linked List
 
+* 2. 两数相加
 * 21.Merge Two Sorted Lists合并排序链表 [hot]
 * 23. Merge k Sorted Lists
 * 61. 旋转链表Rotate List
@@ -108,10 +110,11 @@ other hot keywords：Palindrome(mic), Subsequence
 * LCOF24 206.Reverse Linked List [hot]
 * 92. Reverse Linked List II
 * Add Two Numbers
-* 160. Intersection of Two Linked Lists
+* 160. Intersection of Two Linked Lists 相交链表(相交部分是一样的 遍历完了交换 最多两次遍历短链表即可找到相交段)
 * 143. Reorder List重排链表 （取中电、反转、交叉合并）
+* 206. 反转链表(prev、cur、next)
 * 234. Palindrome Linked List
-* 237. Delete Node in a Linked List
+* 237. Delete Node in a Linked List 删除链表中的节点(val和next替换成下一个的val和next)
 * 328. Odd Even Linked List
 * 725. Split Linked List in Parts
 * 面试题 02.01. 移除重复节点
@@ -167,7 +170,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 100. 相同的树
 * 105.Construct Binary Tree from Preorder and Inorder Traversal
 * 106.Construct Binary Tree from Inorder and Postorder Traversal
-* 108. Convert Sorted Array to Binary Search Tree
+* 108. Convert Sorted Array to Binary Search Tree 将有序数组转换为二叉搜索树 (以中间点作为根 左右分别递归有序数组转二叉树)
 * 110. Balanced Binary Tree平衡二叉树
 * 226. Invert Binary Tree
 * 235. Lowest Common Ancestor of a Binary Search Tree二叉搜索树的最近公共祖先
@@ -315,7 +318,7 @@ other hot keywords：Palindrome(mic), Subsequence
 ### 位运算/二进制
 * 50. Pow(x, n)
 * 89. 格雷编码
-* 136. Single Number
+* 136. Single Number 只出现一次的数字(用异或^ 消掉重复的)
 * 191. Number of 1 Bits
 * 231. Power of Two
 * 190. Reverse Bits
@@ -364,12 +367,12 @@ other hot keywords：Palindrome(mic), Subsequence
 ### MATH
 * 7. Reverse Integer
 * 8. String to Integer (atoi)正则
-* 258. Add Digits
+* 258. Add Digits 各数相加
 * 202. Happy Number
 * 204. Count Primes
-* 169.majority-element
+* 169.majority-element 多数元素(类似计数的方法)
 * 268. Missing Number
-* 292. Nim 游戏
+* 292. Nim 游戏 (先手+每次至多抓3个 解法n%4)
 * 118. Pascal's Triangle
 * 625. Minimum Factorization最小因式分解
 * 877. Stone Game(奇葩)
