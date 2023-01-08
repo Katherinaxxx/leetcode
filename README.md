@@ -131,6 +131,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 85. Maximal Rectangle
 * 42.trapping-rain-water
 * LCOF9用两个栈实现队列 [hot]
+* 227. 基本计算器 II (实现字符串加减乘除，用栈储存数字，根据符号类型入栈)
 * 394. Decode String
 * 496. Next Greater Element I
 * 768. Max Chunks To Make Sorted II最多能完成排序的块 II
@@ -251,7 +252,7 @@ other hot keywords：Palindrome(mic), Subsequence
 * 面试题 17.16. The Masseuse LCCI
 * 312. Burst Balloons (变戳气球为加气球)
 * 337. House Robber III （递归DP）
-* 221.Maximal Square
+* 221. Maximal Square最大正方形（二维dp[i][j]表示以ij为右下角的正方形的最大变长）
 * 300.Longest Increasing Subsequence
 * 322.Coin Change
 * 494. Target Sum
